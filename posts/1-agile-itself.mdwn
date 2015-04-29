@@ -1,6 +1,4 @@
 [[!meta title="1: Agile Itself"]]
 [[!meta enclosure="ai3m1.mp3"]]
 
-## Show Notes
-
 - [Manifesto for Agile Software Development](http://agilemanifesto.org)

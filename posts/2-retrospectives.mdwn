@@ -1,8 +1,6 @@
 [[!meta title="2: Retrospectives"]]
 [[!meta enclosure="ai3m2.mp3"]]
 
-## Show Notes
-
 - [[!wikipedia desc="Agile practices" Agile_software_development#Agile_practices]]
 - [[!wikipedia desc="Retrospective" Retrospective#Software_development]]
 - [[!wikipedia desc="Plan-Do-Check-Act" PDCA]]
