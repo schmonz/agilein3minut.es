@@ -1,5 +1,5 @@
 [[!inline
-description="The simplest podcast that could possibly work"
+description="The simplest podcast that could possibly work."
 pages="page(./posts/*)"
 trail=yes
 show=10
