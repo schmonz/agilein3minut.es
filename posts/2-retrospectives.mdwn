@@ -1,4 +1,5 @@
 [[!meta title="2: Retrospectives"]]
+[[!meta date="2015-04-29 10:48:36"]]
 [[!meta enclosure="ai3m2.mp3"]]
 - [[!wikipedia desc="Agile practices" Agile_software_development#Agile_practices]]
 - [[!wikipedia desc="Retrospective" Retrospective#Software_development]]
