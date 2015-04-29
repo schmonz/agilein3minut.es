@@ -2,6 +2,6 @@
 [[!meta author="Amitai Schlair"]]
 [[!meta enclosure="ai3m1.mp3"]]
 
-# Show Notes
+## Show Notes
 
 - [Manifesto for Agile Software Development](http://agilemanifesto.org)
