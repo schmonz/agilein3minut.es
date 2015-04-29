@@ -1,0 +1,9 @@
+[[!inline
+description="The simplest podcast that could possibly work"
+pages="page(./posts/*)"
+trail=yes
+show=10
+rss=yes
+atom=yes
+feedshow=500
+]]
