@@ -1,7 +1,7 @@
 ##### Tags
 
 [[!pagestats
-pages="tag/*"
+pages="tag/* and !tag/episode"
 ]]
 
 ##### Recent Comments
