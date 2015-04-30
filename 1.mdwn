@@ -1,4 +1,5 @@
 [[!meta title="1: Agile Itself"]]
 [[!meta date="2015-04-29 10:48:35"]]
 [[!meta enclosure="ai3m1.mp3"]]
+[[!tag episode agile manifesto]]
 - [Manifesto for Agile Software Development](http://agilemanifesto.org)
