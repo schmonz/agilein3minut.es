@@ -1,15 +1,15 @@
+##### Tags
+
+[[!pagestats
+pages="tag/*"
+]]
+
 ##### Recent Comments
 
 [[!inline
 pages="comment(*)"
 template="comment"
 show=3
-]]
-
-##### Tags
-
-[[!pagestats
-pages="tag/*"
 ]]
 
 ##### About Me
@@ -20,4 +20,4 @@ Software development coach. Legacy code wrestler. NetBSD and
 Philolexian Foundation director. Non-award-winning musician.
 Award-winning bad poet.
 
-[More about me](http://www.schmonz.com)
+[More...](http://www.schmonz.com)
