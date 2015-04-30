@@ -6,3 +6,7 @@ show=10
 rss=yes
 feedshow=500
 ]]
+
+[[!trailoptions
+reverse=yes
+]]
