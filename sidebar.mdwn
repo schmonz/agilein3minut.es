@@ -1,4 +1,4 @@
-[[!img images/30.jpg alt="headshot" title="headshot" align="right"]]
+[[!img images/30.jpg alt="headshot" title="headshot"]]
 
 ##### About Me
 
