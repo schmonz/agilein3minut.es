@@ -1,6 +1,6 @@
 [[!inline
 description="The simplest podcast that could possibly work."
-pages="page(*)"
+pages="page(*) and !page(sidebar) and !page(ikiwiki/*) and !page(shortcuts)"
 trail=yes
 show=10
 rss=yes
