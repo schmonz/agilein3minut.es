@@ -16,7 +16,7 @@ template="comment"
 show=3
 ]]
 
-##### [[Tags|tag]]
+##### Tags
 
 [[!pagestats
 pages="tag/*"
