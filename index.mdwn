@@ -6,19 +6,3 @@ show=10
 rss=yes
 feedshow=500
 ]]
-
-[[!template id="note" text="""
-##### Recent Comments
-
-[[!inline
-pages="comment(*)"
-template="comment"
-show=3
-]]
-
-##### Tags
-
-[[!pagestats
-pages="tag/*"
-]]
-"""]]

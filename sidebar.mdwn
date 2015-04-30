@@ -1,6 +1,20 @@
-[[!img images/30.jpg alt="headshot" title="headshot"]]
+##### Recent Comments
+
+[[!inline
+pages="comment(*)"
+template="comment"
+show=3
+]]
+
+##### Tags
+
+[[!pagestats
+pages="tag/*"
+]]
 
 ##### About Me
+
+[[!img images/30.jpg alt="headshot" title="headshot"]]
 
 Software development coach. Legacy code wrestler. NetBSD and
 Philolexian Foundation director. Non-award-winning musician.
