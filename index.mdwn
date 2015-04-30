@@ -1,6 +1,6 @@
 [[!inline
 description="The simplest podcast that could possibly work."
-pages="page(episodes/*)"
+pages="page(*)"
 trail=yes
 show=10
 rss=yes
