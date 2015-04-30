@@ -1,3 +1,20 @@
+[[!template id="note" text="""
+##### Recent Comments
+
+[[!inline
+pages="comment(*)"
+template="comment"
+show=3
+]]
+
+##### [[Tags]]
+
+[[!pagestats
+style="list"
+pages="./tags/*" among="./posts/*"
+]]
+"""]]
+
 [[!inline
 description="The simplest podcast that could possibly work."
 pages="page(*) and tagged(episode)"
