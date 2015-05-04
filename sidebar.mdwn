@@ -1,3 +1,9 @@
+[[!img
+images/ai3m-70x70.png
+alt="Agile in 3 Minutes"
+title="Agile in 3 Minutes"
+]]
+
 ##### Tags
 
 [[!pagestats
