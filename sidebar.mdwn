@@ -1,17 +1,12 @@
-##### [[Backlog]]
+##### Your Feedback
+
+- [[Backlog]]
+- [[Comments]]
 
 ##### Tags
 
 [[!pagestats
 pages="tag/* and !tag/episode"
-]]
-
-##### Recent Comments
-
-[[!inline
-pages="comment(*)"
-template="comment"
-show=3
 ]]
 
 ##### About Me
