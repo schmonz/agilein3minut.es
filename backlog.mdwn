@@ -1,6 +1,6 @@
 [[!meta title="Product Backlog"]]
 
-Want to suggest a new topic, or bump up one of these? Add a comment!
+Possible future episodes:
 
 7. Trust
 7. Pairing
@@ -10,3 +10,5 @@ Want to suggest a new topic, or bump up one of these? Add a comment!
 7. [Project estimates as compared to task estimates](http://twitter.com/macterry/status/594142465591889922)
 7. [Feedback cycles](http://twitter.com/Snibble/status/594314526004105216)
 7. Transparency
+
+To suggest a new topic, or bump up one of these...
