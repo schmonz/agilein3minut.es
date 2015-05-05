@@ -1,0 +1,10 @@
+[[!meta title="3: Trust"]]
+[[!meta date="2015-05-05 07:00:00"]]
+[[!meta enclosure="ai3m3.mp3"]]
+[[!tag episode trust feedback]]
+
+### Show Notes
+
+- [[!c2 desc="Acceptance tests" AcceptanceTest]]
+- [[Comment on this episode|3]]
+- [[Comment on the Agile in 3 Minutes backlog|backlog]]
