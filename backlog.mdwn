@@ -15,7 +15,7 @@
 
 7. Make "Download" link more obvious
 7. Provide in-browser audio player widget (maybe [this
-   one](http://jplayer.org)?)
+   one](http://jplayer.org) or [this one](http://mediaelementjs.com)?)
 
 ## Your feedback here
 
