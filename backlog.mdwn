@@ -1,6 +1,6 @@
 [[!meta title="Product Backlog"]]
 
-Possible future episodes:
+## Possible future episodes
 
 7. Pairing
 7. [Pointing](https://twitter.com/_swanson/status/594141675695419392)
@@ -10,5 +10,13 @@ Possible future episodes:
 7. [Feedback cycles](http://twitter.com/Snibble/status/594314526004105216)
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
+
+## Possible site enhancements
+
+7. Make "Download" link more obvious
+7. Provide in-browser audio player widget (maybe [this
+   one](http://jplayer.org)?)
+
+## Your feedback here
 
 To suggest a new topic, or bump up one of these...
