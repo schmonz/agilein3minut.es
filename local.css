@@ -13,3 +13,8 @@
 #audio {
 	margin: 1em 2em;
 }
+
+#enclosure a[href^="http:"]:after,
+#enclosure a[href^="https:"]:after {
+	content: "↓";
+}
