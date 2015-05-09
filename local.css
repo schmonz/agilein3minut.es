@@ -5,3 +5,11 @@
 .sidebar {
 	width: 30ex;
 }
+
+.inlineaudio {
+	margin-top: .4em;
+}
+
+#audio {
+	margin: 1em 2em;
+}
