@@ -24,10 +24,12 @@
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
 <TMPL_IF ENCLOSURE>
-<TMPL_IF HTML5><section id="inlineenclosure"><TMPL_ELSE><div id="inlineenclosure"></TMPL_IF>
+<TMPL_IF HTML5><section id="inlineaudio"><TMPL_ELSE><div id="inlineaudio"></TMPL_IF>
 <audio src="<TMPL_VAR ENCLOSURE>" controls="controls">
 Your browser does not support the <code>audio</code> element.
 </audio>
+<TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
+<TMPL_IF HTML5><section id="inlineenclosure"><TMPL_ELSE><div id="inlineenclosure"></TMPL_IF>
 <a href="<TMPL_VAR ENCLOSURE>">Download</a>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
