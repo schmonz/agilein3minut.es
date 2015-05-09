@@ -13,14 +13,13 @@ and offer your suggestions.
 I intend to release one new episode per week. I hope to continue
 until I've covered every important topic you and I can think of --
 so that whenever someone wonders whether there's an _Agile in 3
-Minutes_ about XYZ, the answer will be "yes". :-)
+Minutes_ about XYZ, the answer will be "Yes!"
 
 I'm always going to build and deliver whatever I feel is the
 highest-value episode to do next. I won't always know what I'm going
-to feel, so this backlog won't always tell you what's coming next.
-But it'll give you an idea of what I'm thinking about. And if you
-want to make sure your idea's got my attention, mentioning it here
-is a great way to do that.
+to feel, so this backlog won't always tell you what to expect. But
+it'll give you an idea of what I'm thinking about. And if you want
+to make sure your idea's got my attention, mention it here.
 
 ## Possible future episodes
 
