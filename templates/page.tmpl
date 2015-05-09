@@ -137,7 +137,7 @@
 
 <TMPL_IF ENCLOSURE>
 <TMPL_IF HTML5><section id="audio"><TMPL_ELSE><div id="audio"></TMPL_IF>
-<audio src="<TMPL_VAR ENCLOSURE>">
+<audio src="<TMPL_VAR ENCLOSURE>" preload="auto" controls="controls">
 Your browser does not support the <code>audio</code> element.
 </audio>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
