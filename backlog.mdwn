@@ -32,6 +32,12 @@ to make sure your idea's got my attention, mention it here.
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
 
+## Possible site enhancements
+
+7. Add [iTunes-specific metadata](http://ikiwiki.info/todo/fancypodcast/)
+   to feeds
+7. Get listed in the iTunes podcast directory
+
 ## Your feedback here
 
 To suggest a new topic, or bump up one of these...
