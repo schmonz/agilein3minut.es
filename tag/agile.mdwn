@@ -1,4 +1,0 @@
-[[!meta title="pages tagged agile"]]
-
-[[!inline pages="tagged(agile)" actions="no" archive="yes"
-feedshow=10]]
