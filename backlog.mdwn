@@ -31,6 +31,7 @@ to make sure your idea's got my attention, mention it here.
 7. [Feedback cycles](http://twitter.com/Snibble/status/594314526004105216)
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
+7. Craftsmanship possible without TDD?
 
 ## Possible site enhancements
 
