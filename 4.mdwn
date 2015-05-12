@@ -5,7 +5,7 @@
 
 ### Show Notes
 
-- [[!wikipedia desc="How Long Is the Coast of Britain?" How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension]]
+- [[!wikipedia desc="How Long Is the Coast of Britain?" How_Long_Is_the_Coast_of_Britain?_Statistical_Self-Similarity_and_Fractional_Dimension]]
 
 ### Give Feedback
 
