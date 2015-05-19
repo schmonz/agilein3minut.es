@@ -32,6 +32,39 @@ to make sure your idea's got my attention, mention it here.
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
 7. Craftsmanship possible without TDD?
+7. Principles
+    7. Deliver valuable software early and often
+    7. Welcome changing requirements
+    7. Business and developers work together daily
+    7. Support and trust motivated individuals
+    7. Face-to-face communication
+    7. Measure progress by working software
+    7. Sustainable pace
+    7. Technical excellence
+    7. Maximize the amount of work not done
+    7. Self-organizing teams
+    7. Reflect, tune, adjust
+7. Mindset
+    7. Non-fixed: through effort, I can learn and improve
+7. Feelings
+    7. Safety
+    7. Courage
+    7. Empathy
+7. Values
+    7. Individuals and interactions over processes and tools
+    7. Working software over comprehensive documentation
+    7. Customer collaboration over contract negotiation
+    7. Responding to change over following a plan
+    7. Simplicity
+    7. Communication
+    7. Feedback
+    7. Respect
+    7. Courage
+    7. Focus
+    7. Openness
+    7. Commitment
+7. Actions
+    7. Doing it and helping others do it
 
 ## Possible site enhancements
 
