@@ -21,6 +21,6 @@
 	content: "↓";
 }
 
-#addcomment a[href]:before {
-	content: "→ ";
+#addcomment a[href^="/cgi/"]:before {
+	content: "→";
 }
