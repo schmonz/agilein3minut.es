@@ -22,6 +22,6 @@
 }
 
 #addcomment a[href^="http:"]:before,
-#addcomment a[href^="https:"]:before,
+#addcomment a[href^="https:"]:before {
 	content: "→ ";
 }
