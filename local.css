@@ -20,3 +20,8 @@
 #inlineenclosure a[href^="https:"]:after {
 	content: "↓";
 }
+
+#addcomment a[href^="http:"]:before,
+#addcomment a[href^="https:"]:before,
+	content: "→ ";
+}
