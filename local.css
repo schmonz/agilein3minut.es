@@ -21,6 +21,6 @@
 	content: "↓";
 }
 
-#addcomment a[href^="/cgi/"]:after {
+.addcomment a[href^="/cgi/"]:after {
 	content: "→";
 }
