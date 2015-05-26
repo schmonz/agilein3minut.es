@@ -14,13 +14,13 @@
 	margin: 1em 2em;
 }
 
-#enclosure a[href^="http:"]:after,
-#enclosure a[href^="https:"]:after,
-#inlineenclosure a[href^="http:"]:after,
-#inlineenclosure a[href^="https:"]:after {
-	content: "↓";
+#enclosure a[href^="http:"]:before,
+#enclosure a[href^="https:"]:before,
+#inlineenclosure a[href^="http:"]:before,
+#inlineenclosure a[href^="https:"]:before {
+	content: "↓ ";
 }
 
-.addcomment a[href^="/cgi/"]:after {
-	content: "→";
+.addcomment a[href]:before {
+	content: "→ ";
 }
