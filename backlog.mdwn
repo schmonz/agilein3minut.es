@@ -24,10 +24,13 @@ to make sure your idea's got my attention, mention it here.
 ## Possible future episodes
 
 7. Pairing
-7. [Pointing](https://twitter.com/_swanson/status/594141675695419392)
+7. Estimating
+    7. [Pointing](https://twitter.com/_swanson/status/594141675695419392)
+    7. [Project estimates as compared to task estimates](http://twitter.com/macterry/status/594142465591889922)
+    7. Story estimates (conflating complexity with number of days
+       to complete)
 7. ["Say/do" ratio](https://twitter.com/_swanson/status/594141675695419392)
 7. [Sprint "commitments"](https://twitter.com/_swanson/status/594141675695419392)
-7. [Project estimates as compared to task estimates](http://twitter.com/macterry/status/594142465591889922)
 7. [Feedback cycles](http://twitter.com/Snibble/status/594314526004105216)
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
