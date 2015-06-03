@@ -1,6 +1,6 @@
-[[!meta title="<TMPL_VAR NAME=number>: <TMPL_VAR NAME=title>"]]
+[[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
-[[!meta enclosure="ai3m<TMPL_VAR NAME=number>.mp3"]]
+[[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
 
 ### The Question
@@ -13,9 +13,5 @@
 
 ### Your Feedback
 
-- [[This episode|<TMPL_VAR NAME="number">]]
+- [[This episode|<TMPL_VAR NAME="page">]]
 - [[The Agile in 3 Minutes backlog|backlog]]
-
------
-
-This page: <TMPL_VAR NAME="page">

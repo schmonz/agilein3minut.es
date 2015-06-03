@@ -1,5 +1,4 @@
 [[!template id="episode"
-number=2
 title="Retrospectives"
 date="2015-04-29 10:48:36"
 tags="practice retrospective feedback"

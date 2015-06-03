@@ -1,5 +1,4 @@
 [[!template id="episode"
-number=3
 title="Trust"
 date="2015-05-05 07:00:00"
 tags="trust feedback"

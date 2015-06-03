@@ -1,5 +1,4 @@
 [[!template id="episode"
-number=6
 title="Risk"
 date="2015-06-02 07:00:00"
 tags="risk intuition trust knowledge feedback"

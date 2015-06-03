@@ -1,5 +1,4 @@
 [[!template id="episode"
-number=5
 title="Wrong"
 date="2015-05-26 07:00:00"
 tags="intuition knowledge feedback"
