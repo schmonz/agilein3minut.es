@@ -3,11 +3,15 @@
 [[!meta enclosure="ai3m5.mp3"]]
 [[!tag episode intuition knowledge feedback]]
 
+### The Question
+
+What's the nicest way to find out you're wrong?
+
 ### Show Notes
 
 - [[!wikipedia Epistemology]]
 
-### Give Feedback
+### Your Feedback
 
-- [[Comment on this episode|5]]
-- [[Comment on the backlog|backlog]]
+- [[This episode|5]]
+- [[The Agile in 3 Minutes backlog|backlog]]

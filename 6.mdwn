@@ -3,11 +3,15 @@
 [[!meta enclosure="ai3m6.mp3"]]
 [[!tag episode risk intuition trust knowledge feedback]]
 
+### The Question
+
+How much risk is the right amount?
+
 ### Show Notes
 
 - [[!wikipedia Metacognition]]
 
-### Give Feedback
+### Your Feedback
 
-- [[Comment on this episode|6]]
-- [[Comment on the backlog|backlog]]
+- [[This episode|6]]
+- [[The Agile in 3 Minutes backlog|backlog]]

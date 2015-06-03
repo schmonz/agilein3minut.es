@@ -3,8 +3,15 @@
 [[!meta enclosure="ai3m3.mp3"]]
 [[!tag episode trust feedback]]
 
+### The Question
+
+How can we think about the business value of trust?
+
 ### Show Notes
 
 - [[!c2 desc="Acceptance tests" AcceptanceTest]]
-- [[Comment on this episode|3]]
-- [[Comment on the Agile in 3 Minutes backlog|backlog]]
+
+### Your Feedback
+
+- [[This episode|3]]
+- [[The Agile in 3 Minutes backlog|backlog]]

@@ -3,8 +3,17 @@
 [[!meta enclosure="ai3m2.mp3"]]
 [[!tag episode practice retrospective feedback]]
 
+### The Question
+
+Could you do Agile on a desert island?
+
 ### Show Notes
 
 - [[!wikipedia desc="Agile practices" Agile_software_development#Agile_practices]]
 - [[!wikipedia desc="Retrospective" Retrospective#Software_development]]
 - [[!wikipedia desc="Plan-Do-Check-Act" PDCA]]
+
+### Your Feedback
+
+- [[This episode|2]]
+- [[The Agile in 3 Minutes backlog|backlog]]
