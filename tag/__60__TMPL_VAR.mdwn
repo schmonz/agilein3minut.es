@@ -1,0 +1,4 @@
+[[!meta title="pages tagged <TMPL VAR"]]
+
+[[!inline pages="tagged(__60__TMPL_VAR)" actions="no" archive="yes"
+feedshow=10]]
