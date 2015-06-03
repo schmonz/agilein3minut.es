@@ -1,17 +1,10 @@
-[[!meta title="1: Agile Itself"]]
-[[!meta date="2015-04-29 10:48:35"]]
-[[!meta enclosure="ai3m1.mp3"]]
-[[!tag episode manifesto feedback]]
-
-### The Question
-
-Why Agile, and why 3 minutes?
-
-### Show Notes
-
+[[!template id="episode"
+number=1
+title="Agile Itself"
+date="2015-04-29 10:48:35"
+tags="manifesto feedback"
+question="Why Agile, and why 3 minutes?"
+shownotes="""
 - [Manifesto for Agile Software Development](http://agilemanifesto.org)
-
-### Your Feedback
-
-- [[This episode|1]]
-- [[The Agile in 3 Minutes backlog|backlog]]
+"""
+]]
