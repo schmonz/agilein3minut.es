@@ -2,7 +2,7 @@
 
 [[!inline
 description="The simplest podcast that could possibly work."
-pages="page(*) and tagged(episode)"
+pages="page(*) and tagged(episode) and !templates/episode"
 trail=yes
 show=10
 rss=yes
