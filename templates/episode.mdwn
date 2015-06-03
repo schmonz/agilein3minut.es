@@ -15,3 +15,7 @@
 
 - [[This episode|<TMPL_VAR NAME="number">]]
 - [[The Agile in 3 Minutes backlog|backlog]]
+
+-----
+
+This page: <TMPL_VAR NAME="page">
