@@ -1,0 +1,17 @@
+[[!meta title="<TMPL_VAR NAME=number>: <TMPL_VAR NAME=title>"]]
+[[!meta date="<TMPL_VAR NAME=date>"]]
+[[!meta enclosure="ai3m<TMPL_VAR NAME=number>.mp3"]]
+[[!tag episode <TMPL_VAR NAME="tags">]]
+
+### The Question
+
+<TMPL_VAR NAME="question">
+
+### Show Notes
+
+<TMPL_VAR NAME="shownotes">
+
+### Your Feedback
+
+- [[This episode|<TMPL_VAR NAME="number">]]
+- [[The Agile in 3 Minutes backlog|backlog]]
