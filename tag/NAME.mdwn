@@ -1,4 +1,0 @@
-[[!meta title="pages tagged NAME"]]
-
-[[!inline pages="tagged(NAME)" actions="no" archive="yes"
-feedshow=10]]

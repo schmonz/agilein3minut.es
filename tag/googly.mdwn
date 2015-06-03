@@ -1,4 +1,0 @@
-[[!meta title="pages tagged googly"]]
-
-[[!inline pages="tagged(googly)" actions="no" archive="yes"
-feedshow=10]]

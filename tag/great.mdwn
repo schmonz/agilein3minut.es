@@ -1,4 +1,0 @@
-[[!meta title="pages tagged great"]]
-
-[[!inline pages="tagged(great)" actions="no" archive="yes"
-feedshow=10]]
