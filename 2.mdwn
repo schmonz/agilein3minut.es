@@ -1,19 +1,12 @@
-[[!meta title="2: Retrospectives"]]
-[[!meta date="2015-04-29 10:48:36"]]
-[[!meta enclosure="ai3m2.mp3"]]
-[[!tag episode practice retrospective feedback]]
-
-### The Question
-
-Could you do Agile on a desert island?
-
-### Show Notes
-
+[[!template id="episode"
+number=2
+title="Retrospectives"
+date="2015-04-29 10:48:36"
+tags="practice retrospective feedback"
+question="Could you do Agile on a desert island?"
+shownotes="""
 - [[!wikipedia desc="Agile practices" Agile_software_development#Agile_practices]]
 - [[!wikipedia desc="Retrospective" Retrospective#Software_development]]
 - [[!wikipedia desc="Plan-Do-Check-Act" PDCA]]
-
-### Your Feedback
-
-- [[This episode|2]]
-- [[The Agile in 3 Minutes backlog|backlog]]
+"""
+]]

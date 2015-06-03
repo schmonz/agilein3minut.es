@@ -1,17 +1,10 @@
-[[!meta title="4: Intuition"]]
-[[!meta date="2015-05-12 07:00:00"]]
-[[!meta enclosure="ai3m4.mp3"]]
-[[!tag episode intuition feedback]]
-
-### The Question
-
-When developing software, how many decisions do we make every day?
-
-### Show Notes
-
+[[!template id="episode"
+number=4
+title="Intuition"
+date="2015-05-12 07:00:00"
+tags="intuition feedback"
+question="When developing software, how many decisions do we make every day?"
+shownotes="""
 - [[!wikipedia desc="How Long Is the Coast of Britain?" How_Long_Is_the_Coast_of_Britain?_Statistical_Self-Similarity_and_Fractional_Dimension]]
-
-### Your Feedback
-
-- [[This episode|4]]
-- [[The Agile in 3 Minutes backlog|backlog]]
+"""
+]]

@@ -1,17 +1,10 @@
-[[!meta title="6: Risk"]]
-[[!meta date="2015-06-02 07:00:00"]]
-[[!meta enclosure="ai3m6.mp3"]]
-[[!tag episode risk intuition trust knowledge feedback]]
-
-### The Question
-
-How much risk is the right amount?
-
-### Show Notes
-
+[[!template id="episode"
+number=6
+title="Risk"
+date="2015-06-02 07:00:00"
+tags="risk intuition trust knowledge feedback"
+question="How much risk is the right amount?"
+shownotes="""
 - [[!wikipedia Metacognition]]
-
-### Your Feedback
-
-- [[This episode|6]]
-- [[The Agile in 3 Minutes backlog|backlog]]
+"""
+]]

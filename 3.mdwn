@@ -1,17 +1,10 @@
-[[!meta title="3: Trust"]]
-[[!meta date="2015-05-05 07:00:00"]]
-[[!meta enclosure="ai3m3.mp3"]]
-[[!tag episode trust feedback]]
-
-### The Question
-
-How can we think about the business value of trust?
-
-### Show Notes
-
+[[!template id="episode"
+number=3
+title="Trust"
+date="2015-05-05 07:00:00"
+tags="trust feedback"
+question="How can we think about the business value of trust?"
+shownotes="""
 - [[!c2 desc="Acceptance tests" AcceptanceTest]]
-
-### Your Feedback
-
-- [[This episode|3]]
-- [[The Agile in 3 Minutes backlog|backlog]]
+"""
+]]
