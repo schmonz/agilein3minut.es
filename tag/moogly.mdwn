@@ -1,0 +1,4 @@
+[[!meta title="pages tagged moogly"]]
+
+[[!inline pages="tagged(moogly)" actions="no" archive="yes"
+feedshow=10]]
