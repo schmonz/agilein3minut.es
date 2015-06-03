@@ -1,0 +1,11 @@
+[[!template id="episode"
+number=0
+title=Snickers
+date="1999-06-02 07:00:00"
+tags="great googly moogly"
+question="Are you yourself when you're hungry?"
+shownotes="""
+- Nope
+- [Who are the Chefs?](https://www.youtube.com/watch?v=WPOZbG7ibEE)
+"""
+]]
