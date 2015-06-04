@@ -23,6 +23,7 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible future episodes
 
+7. Security (jumping off Risk to risk modeling and security decisions)
 7. Pairing
 7. Estimating
     7. [Pointing](https://twitter.com/_swanson/status/594141675695419392)
