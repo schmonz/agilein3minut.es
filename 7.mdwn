@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Fear"
+date="2015-06-09 07:00:00"
+tags="fear risk knowledge feedback"
+question="What's there to be afraid of?'
+shownotes="""
+- [[!wikipedia Cognitive_load]]
+- [[!c2 desc="Big Visible Chart" BigVisibleChart]]
+"""
+]]
