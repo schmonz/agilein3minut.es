@@ -13,5 +13,7 @@
 
 ### Your Feedback
 
+"Add a comment" on...
+
 - [[This episode|<TMPL_VAR NAME="page">]]
 - [[The Agile in 3 Minutes backlog|backlog]]
