@@ -3,7 +3,7 @@ title="Intuition"
 date="2015-05-12 07:00:00"
 tags="intuition feedback"
 question="When developing software, how many decisions do we make every day?"
-shownotes="""
+learnmore="""
 - [[!wikipedia desc="How Long Is the Coast of Britain?" How_Long_Is_the_Coast_of_Britain?_Statistical_Self-Similarity_and_Fractional_Dimension]]
 """
 ]]

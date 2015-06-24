@@ -3,7 +3,7 @@ title="Risk"
 date="2015-06-02 07:00:00"
 tags="risk intuition trust knowledge feedback"
 question="How much risk is the right amount?"
-shownotes="""
+learnmore="""
 - [[!wikipedia Metacognition]]
 """
 ]]

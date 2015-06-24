@@ -3,7 +3,7 @@ title="Care"
 date="2015-06-16 07:00:00"
 tags="fear pain risk wrong care love knowledge feedback"
 question="How can others tell what matters to you?"
-shownotes="""
+learnmore="""
 - [[!wikipedia Philosophy_of_love]]
 - [[!c2 desc="Courage" XpCourageValue]]
 """

@@ -11,7 +11,7 @@
 
 ### Learn More
 
-<TMPL_VAR NAME="shownotes">
+<TMPL_VAR NAME="learnmore">
 
 ### Your Feedback
 

@@ -3,7 +3,7 @@ title="Trust"
 date="2015-05-05 07:00:00"
 tags="trust feedback"
 question="How can we think about the business value of trust?"
-shownotes="""
+learnmore="""
 - [[!c2 desc="Acceptance tests" AcceptanceTest]]
 """
 ]]
