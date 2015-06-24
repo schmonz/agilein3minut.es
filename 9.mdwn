@@ -4,7 +4,7 @@ date="2015-06-23 07:00:00"
 tags="intuition trust wrong care cost feedback"
 question="If working in pairs means getting half as much done, why is anyone still doing it?"
 learnmore="""
-- [[!wikipedia desc "Pair programming (Wikipedia)" Pair_programming]] 
+- [[!wikipedia desc="Pair programming (Wikipedia)" Pair_programming]] 
 - [[!c2 desc="Pair programming (C2 Wiki)" PairProgramming]]
 """
 ]]
