@@ -23,6 +23,8 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible future episodes
 
+7. Experiments
+7. Roles
 7. Decision-making (Agile gives you lots of opportunities to practice,
    if you want to take them; what goes into good decision-making)
 7. Security (jumping off Risk to risk modeling and security decisions)
