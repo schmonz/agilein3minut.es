@@ -24,7 +24,7 @@ to make sure your idea's got my attention, mention it here.
 ## Possible future episodes
 
 7. Experiments
-7. Roles
+7. Roles (and wearing them loosely)
 7. Decision-making (Agile gives you lots of opportunities to practice,
    if you want to take them; what goes into good decision-making)
 7. Security (jumping off Risk to risk modeling and security decisions)
@@ -40,6 +40,9 @@ to make sure your idea's got my attention, mention it here.
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
 7. Craftsmanship possible without TDD?
+7. [[!wikipedia Brooks'_law]]
+7. People are generally doing their best (perhaps this goes under
+   systems thinking)
 7. Principles
     7. Deliver valuable software early and often
     7. Welcome changing requirements
