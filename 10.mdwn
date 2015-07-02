@@ -1,0 +1,11 @@
+[[!template id="episode"
+title="Try"
+date="2015-06-30 07:00:00"
+tags="intuition trust risk wrong feedback"
+question="What if every action we took were an experiment?"
+learnmore="""
+- [[!wikipedia Experiment]] 
+- [[!wikipedia Hypothesis]] 
+- [[!wikipedia Causality]] 
+"""
+]]
