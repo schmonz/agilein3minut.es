@@ -85,6 +85,7 @@ to make sure your idea's got my attention, mention it here.
    to feeds
 7. Get listed in the iTunes podcast directory
 7. Provide link to open in podcast player (`itpc://`)
+7. Fix [W3C feed validation](https://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fagilein3minut.es%2Findex.rss)
 
 ## Your feedback here
 
