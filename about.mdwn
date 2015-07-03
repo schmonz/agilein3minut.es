@@ -1,6 +1,6 @@
 [[!meta title="About the Show"]]
 
-## What I Want
+## My Goals
 
 I want it to be the case that every time someone chooses to listen
 to an episode of _Agile in 3 Minutes_, they feel their time and
@@ -11,30 +11,30 @@ of _Agile in 3 Minutes_ on the topic of `$FOO`, for all reasonable
 values of `$FOO`, that episode exists. Until this is so, I intend
 to release a new episode every week.
 
-## What Listeners Say
+## Listeners Are Saying...
 
-> Poetic gems. Insightful, concise and elegant.
+> "Poetic gems. Insightful, concise and elegant."
 
 -- [Tobias Mayer](https://twitter.com/tobiasmayer)
 
-> Great series of micro-podcasts on agile topics. High-signal for noobs.
+> "Great series of micro-podcasts on agile topics. High-signal for noobs."
 
 -- [Michael D. Hill](https://twitter.com/GeePawHill)
 
-> **Stunningly awesome** -- and it only takes 3 minutes.
+> "Stunningly awesome -- and it only takes 3 minutes."
 
 -- [Ruth Malan](https://twitter.com/ruthmalan) (on [[Wrong|5]])
 
-> You manage to make me think harder in those three minutes than
-> most do in a way way longer duration.
+> "You manage to make me think harder in those three minutes than
+> most do in a way way longer duration."
 
 -- [Daniel Davis](https://twitter.com/daniel_davis)
 
-> Much more digestible than traditional length podcasts!
+> "Much more digestible than traditional length podcasts!"
 
 -- [Aaron Griffith](https://twitter.com/Aaron_Griffith)
 
-> Your voice and cadence is remarkably soothing. Reminds me of Roman
-> Mars at [99% Invisible](http://99percentinvisible.org).
+> "Your voice and cadence is remarkably soothing. Reminds me of Roman
+> Mars at [99% Invisible](http://99percentinvisible.org)."
 
 -- [John Haprian](https://twitter.com/fshapps)
