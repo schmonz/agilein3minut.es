@@ -1,14 +1,8 @@
 ## The simplest podcast that could possibly work. [[More...|about]]
 
 [[!inline
-description="The simplest podcast that could possibly work."
 pages="page(*) and tagged(episode) and !templates/episode"
-trail=yes
-show=10
-rss=yes
-feedshow=500
-]]
-
-[[!trailoptions
-reverse=yes
+show=1
+rss=no
+archive=no
 ]]

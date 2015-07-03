@@ -1,4 +1,4 @@
-- [[Latest Episode|newindex]]
+- [[Latest Episode|/index]]
 - [[About]]
 - [[Archive]]
 - [[Backlog]]
