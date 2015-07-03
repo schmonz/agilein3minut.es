@@ -7,7 +7,7 @@
 pages="tag/* and !tag/episode"
 ]]
 
-##### About Me
+##### About Amitai, Your Host
 
 [[!img
 images/30.jpg
