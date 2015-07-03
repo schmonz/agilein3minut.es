@@ -22,10 +22,10 @@ Mars at [99% Invisible](http://99percentinvisible.org)."
 
 ## My Goals
 
-Every time someone chooses to listen, they feel their time,
-intelligence, and humanity are respected. I hope this is already
-so.
+- Every time someone chooses to listen, they feel their time,
+  intelligence, and humanity are respected. I hope this is already
+  so.
 
-Every time someone seeks an episode on the topic of `$FOO`, for all
-reasonable values of `$FOO`, it exists. Until this is the case, I
-intend to release a new episode every week.
+- Every time someone seeks an episode on the topic of `$FOO`, for
+  all reasonable values of `$FOO`, it exists. Until this is the
+  case, I intend to release a new episode every week.
