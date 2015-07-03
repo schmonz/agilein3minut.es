@@ -1,18 +1,5 @@
 [[!meta title="About the Show"]]
 
-## My Goals
-
-I want it to be the case that every time someone chooses to listen
-to an episode of _Agile in 3 Minutes_, they feel their time and
-intelligence have been respected. I hope this is already so.
-
-I want it to be the case that every time someone seeks an episode
-of _Agile in 3 Minutes_ on the topic of `$FOO`, for all reasonable
-values of `$FOO`, that episode exists. Until this is so, I intend
-to release a new episode every week.
-
-## Listeners Are Saying...
-
 "Poetic gems. Insightful, concise and elegant."  
 -- [Tobias Mayer](https://twitter.com/tobiasmayer)
 
@@ -32,3 +19,14 @@ most do in a way way longer duration."
 "Your voice and cadence is remarkably soothing. Reminds me of Roman
 Mars at [99% Invisible](http://99percentinvisible.org)."  
 -- [John Haprian](https://twitter.com/fshapps)
+
+## My Goals
+
+Every time someone chooses to listen to an episode of _Agile in 3
+Minutes_, they feel their time, intelligence, and humanity are
+respected. I hope this is already so.
+
+Every time someone seeks an episode of _Agile in 3 Minutes_ on the
+topic of `$FOO`, for all reasonable values of `$FOO`, that episode
+exists. Until this is the case, I intend to release a new episode
+every week.
