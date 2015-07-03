@@ -10,11 +10,6 @@ and offer your suggestions.
 
 ## A few words from your Product Owner
 
-I intend to release one new episode per week. I hope to continue
-until I've covered every important topic you and I can think of --
-so that whenever someone wonders whether there's an _Agile in 3
-Minutes_ about XYZ, the answer will be "Yes!"
-
 I'm always going to build and deliver whatever I feel is the
 highest-value episode to do next. I won't always know what I'm going
 to feel, so this backlog won't always tell you what to expect. But
@@ -23,12 +18,10 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible future episodes
 
-7. Experiments
 7. Roles (and wearing them loosely)
 7. Decision-making (Agile gives you lots of opportunities to practice,
    if you want to take them; what goes into good decision-making)
 7. Security (jumping off Risk to risk modeling and security decisions)
-7. Pairing
 7. Estimating
     7. [Pointing](https://twitter.com/_swanson/status/594141675695419392)
     7. [Project estimates as compared to task estimates](http://twitter.com/macterry/status/594142465591889922)
