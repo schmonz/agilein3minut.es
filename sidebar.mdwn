@@ -13,8 +13,7 @@ pages="tag/* and !tag/episode"
 ##### Subscribe
 
 - [Email](mailto:episode-announce-subscribe@agilein3minut.es)
-- [iTunes](itpc://agilein3minut.es/archive/index.rss)
-- [RSS](http://agilein3minut.es/archive/index.rss)
+- [iTunes (RSS)](http://agilein3minut.es/archive/index.rss)
 
 ##### About Amitai, Your Host
 
