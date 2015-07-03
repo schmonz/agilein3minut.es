@@ -2,7 +2,7 @@
 - [[Archive]]
 - [[Backlog]]
 - [[Comments]]
-- [Subscribe by Email](mailto:episode-announce-subscribe@agilein3minut.es)
+- [Subscribe (by email)](mailto:episode-announce-subscribe@agilein3minut.es)
 
 [[!pagestats
 pages="tag/* and !tag/episode"
