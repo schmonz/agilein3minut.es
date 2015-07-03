@@ -5,5 +5,4 @@ pages="page(*) and tagged(episode) and !templates/episode"
 show=1
 rss=no
 archive=no
-actions=yes
 ]]
