@@ -1,0 +1,17 @@
+## The simplest podcast that could possibly work. [[More...|about]]
+
+[[!inline
+description="The simplest podcast that could possibly work."
+pages="page(*) and tagged(episode) and !templates/episode"
+show=1
+rss=no
+feedshow=0
+archive=no
+]]
+
+### Previous Episodes
+
+[[!inline
+raw=yes
+pages="all"
+]]
