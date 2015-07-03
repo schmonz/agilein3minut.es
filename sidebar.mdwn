@@ -1,13 +1,7 @@
-##### Subscribe
-
-- [By email](mailto:episode-announce-subscribe@agilein3minut.es)
-
-##### Your Feedback
-
+- [[About the Show|about]]
+- [Subscribe by email](mailto:episode-announce-subscribe@agilein3minut.es)
 - [[Product Backlog|backlog]]
 - [[Recent Comments|comments]]
-
-##### Tags
 
 [[!pagestats
 pages="tag/* and !tag/episode"
@@ -24,6 +18,4 @@ link="http://www.schmonz.com"
 
 Software development coach. Legacy code wrestler. NetBSD and
 Philolexian Foundation director. Non-award-winning musician.
-Award-winning bad poet.
-
-[More...](http://www.schmonz.com)
+Award-winning bad poet. [More...](http://www.schmonz.com)
