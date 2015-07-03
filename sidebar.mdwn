@@ -1,13 +1,20 @@
+##### The Show
+
 - [[Latest Episode|/index]]
 - [[About]]
 - [[Archive]]
 - [[Backlog]]
 - [[Comments]]
-- [Subscribe (by email)](mailto:episode-announce-subscribe@agilein3minut.es)
 
 [[!pagestats
 pages="tag/* and !tag/episode"
 ]]
+
+##### Subscribe
+
+- [By email](mailto:episode-announce-subscribe@agilein3minut.es)
+- [In iTunes](itpc://agilein3minut.es/archive/index.rss)
+- [In another podcast player](http://agilein3minut.es/archive/index.rss)
 
 ##### About Amitai, Your Host
 
