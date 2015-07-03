@@ -1,7 +1,14 @@
 [[!inline
 description="The simplest podcast that could possibly work."
 pages="page(*) and tagged(episode) and !templates/episode"
-trail=yes
 rss=yes
 archive=yes
 ]]
+
+<!--
+trail=yes
+
+[[!trailoptions
+reverse=yes
+]]
+-->
