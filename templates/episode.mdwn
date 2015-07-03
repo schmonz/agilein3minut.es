@@ -7,7 +7,7 @@
 
 ### The Question
 
-<TMPL_VAR NAME="question">
+<em><TMPL_VAR NAME="question"></em>
 
 ### Learn More
 
