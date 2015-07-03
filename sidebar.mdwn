@@ -1,7 +1,8 @@
-- [[About the Show|about]]
+- [[About]]
+- [[Archive]]
+- [[Backlog]]
+- [[Comments]]
 - [Subscribe by Email](mailto:episode-announce-subscribe@agilein3minut.es)
-- [[Product Backlog|backlog]]
-- [[Recent Comments|comments]]
 
 [[!pagestats
 pages="tag/* and !tag/episode"
