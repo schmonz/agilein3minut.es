@@ -13,7 +13,7 @@
 
 <TMPL_VAR NAME="learnmore">
 
-<TMPL_IF CDATE_822>
+<TMPL_IF NAME="cdate_822">
 ### Your Feedback
 
 Please "Add a comment" on...
