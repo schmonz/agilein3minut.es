@@ -27,7 +27,7 @@ most do in a way way longer duration."
 
 - Every time someone chooses to listen, they feel their time,
   intelligence, and humanity are respected. I hope this is already
-  so.
+  the case.
 
 - Every time someone seeks an episode on the topic of `$FOO`, for
   all reasonable values of `$FOO`, it exists. Until this is the
