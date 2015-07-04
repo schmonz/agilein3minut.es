@@ -1,4 +1,14 @@
-## The simplest podcast that could possibly work. [[More...|about]]
+## The simplest podcast that could possibly work. [[!toggle text="More..."]]
+
+[[!toggleable
+text="""
+[[!inline
+pages="about"
+raw=yes
+]]
+[[!toggle text="Less"]]
+"""
+]]
 
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
