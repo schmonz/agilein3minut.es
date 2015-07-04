@@ -22,4 +22,4 @@ Please "Add a comment" on...
 
 ### Debugging (hi listeners!)
 
-<TMPL_VAR NAME="cdate_822">
+<TMPL_VAR NAME="CDATE_822">
