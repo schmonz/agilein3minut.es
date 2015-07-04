@@ -1,6 +1,5 @@
 ##### The Show
 
-- [[Latest Episode|/index]]
 - [[About]]
 - [[Archive]]
 - [[Backlog]]
