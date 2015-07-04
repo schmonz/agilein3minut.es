@@ -13,11 +13,13 @@
 
 <TMPL_VAR NAME="learnmore">
 
-<TMPL_IF NAME="cdate_822">
 ### Your Feedback
 
 Please "Add a comment" on...
 
 - [[This episode|<TMPL_VAR NAME="page">]]
 - [[The Agile in 3 Minutes backlog|backlog]]
-</TMPL_IF>
+
+### Debugging (hi listeners!)
+
+<TMPL_VAR NAME="cdate_822">
