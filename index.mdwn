@@ -6,7 +6,6 @@ text="""
 pages="about"
 raw=yes
 ]]
-[[!toggle text="Less"]]
 """
 ]]
 
