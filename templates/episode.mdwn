@@ -19,7 +19,3 @@ Please "Add a comment" on...
 
 - [[This episode|<TMPL_VAR NAME="page">]]
 - [[The Agile in 3 Minutes backlog|backlog]]
-
-### Debugging (hi listeners!)
-
-<TMPL_VAR NAME="CDATE_822">
