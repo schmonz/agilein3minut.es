@@ -74,6 +74,7 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible site enhancements
 
+7. Add Patreon (or whatever) link in the sidebar
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
 7. Add [iTunes-specific metadata](http://ikiwiki.info/todo/fancypodcast/)
