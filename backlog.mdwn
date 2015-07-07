@@ -78,6 +78,7 @@ to make sure your idea's got my attention, mention it here.
    to get listed in the iTunes podcast directory
 7. Get a real website design (including scalable logo)
 7. Link to ways listeners can support the show
+7. Publish the episode scripts
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
 7. Provide iTunes-specific subscribe link (`itpc://`)
