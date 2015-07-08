@@ -4,6 +4,7 @@
 - [[Archive]]
 - [[Backlog]]
 - [[Comments]]
+- [[Support]]
 
 [[!pagestats
 pages="tag/* and !tag/episode"
