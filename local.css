@@ -24,7 +24,3 @@
 .addcomment a[href]:before {
 	content: "→ ";
 }
-
-.author {
-	display: none;
-}
