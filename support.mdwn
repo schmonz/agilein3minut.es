@@ -13,5 +13,16 @@ Got an idea for a topic, or anything else I might consider doing?
 backlog](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog).
 
 Feel like dropping me a few bucks? They'll go toward hosting and
-equipment costs, and you'll be encouraging me to keep at it. [Become
-a Patreon patron](https://www.patreon.com/schmonz).
+equipment costs, and you'll be encouraging me to keep at it. As you
+prefer:
+
+- [Donate with Patreon](https://www.patreon.com/schmonz)
+- [Donate with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=http%3A%2F%2Fagilein3minut.es)
+
+<!--
+
+See http://ikiwiki.info/tipjar/
+
+- [Donate with Gratipay]()
+- [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=joey%40kitenet%2enet&item_name=ikiwiki&no_shipping=1&cn=Comments%3f&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8)
+-->
