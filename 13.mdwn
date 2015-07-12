@@ -1,0 +1,11 @@
+[[!template id="episode"
+title="Dig"
+date="2015-07-21 07:00:00"
+tags="fun delight needs perfection comfort wrong dig feedback joy"
+question="How often is your job fun to do?"
+learnmore="""
+- [[!wikipedia Table_tennis]]
+- [[!wikipedia Beer]]
+- [[!wikipedia Perfectionism_(psychology)]]
+"""
+]]
