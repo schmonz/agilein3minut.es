@@ -33,4 +33,4 @@ most do in a way way longer duration."
   all reasonable values of `$FOO`, it exists. Until this is the
   case, I intend to release a new episode every week.
 
-- Every episode is the favorite of at least one listener.
+- Every episode could be someone's favorite.
