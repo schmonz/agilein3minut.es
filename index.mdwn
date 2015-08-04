@@ -1,6 +1,4 @@
-# _The simplest podcast that could possibly work._
-
-## Current Episode:
+# The simplest podcast that could possibly work.
 
 [[!toggleable
 text="""
