@@ -1,8 +1,5 @@
 [[!template id="blurb"
-quote="""
-You manage to make me think harder in those three minutes than most
-do in a way way longer duration.
-"""
+quote="You manage to make me think harder in those three minutes than most do in a way way longer duration."
 author="Daniel Davis"
 twitter="daniel_davis"
 ]]
