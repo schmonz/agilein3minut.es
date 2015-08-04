@@ -16,3 +16,7 @@ actions=yes
 rss=no
 archive=no
 ]]
+
+-----
+
+[[Previous episodes|archive]]
