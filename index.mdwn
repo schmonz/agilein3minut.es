@@ -1,4 +1,4 @@
-## The simplest podcast that could possibly work. [[!toggle text="More..."]]
+# The simplest podcast that could possibly work.
 
 [[!toggleable
 text="""
