@@ -1,5 +1,10 @@
 [[!meta title="About the Show"]]
 
+[[!inline
+pages="blurb/*"
+raw=yes
+]]
+
 "Poetic gems. Insightful, concise and elegant."  
 -- [Tobias Mayer](https://twitter.com/tobiasmayer)
 
