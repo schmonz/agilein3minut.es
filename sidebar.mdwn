@@ -14,6 +14,7 @@ pages="tag/* and !tag/episode"
 
 - [Email](mailto:episode-announce-subscribe@agilein3minut.es)
 - [iTunes (RSS)](http://agilein3minut.es/archive/index.rss)
+- <a class="feedbutton" href="/archive/index.rss">RSS</a>
 
 ##### Your Host
 
