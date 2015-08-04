@@ -1,4 +1,4 @@
-# "The simplest podcast that could possibly work."
+# The simplest podcast that could possibly work.
 
 [[!toggleable
 text="""
