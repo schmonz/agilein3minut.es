@@ -1,4 +1,6 @@
-# The simplest podcast that could possibly work.
+# _The simplest podcast that could possibly work._
+
+## Current Episode:
 
 [[!toggleable
 text="""
@@ -19,4 +21,4 @@ archive=no
 
 -----
 
-[[Previous episodes|archive]]
+## [[More Episodes|archive]]
