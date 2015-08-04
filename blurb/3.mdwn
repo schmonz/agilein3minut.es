@@ -1,0 +1,8 @@
+[[!template id="blurb"
+quote="""
+Your voice and cadence is remarkably soothing. Reminds me of Roman
+Mars at [99% Invisible](http://99percentinvisible.org).
+"""
+author="John Haprian"
+twitter="fshapps"
+]]
