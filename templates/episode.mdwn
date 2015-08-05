@@ -8,7 +8,7 @@
 
 <div id="inlineaudio">
 <audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls">
-Your browser does not support the <code>audio</code> element.
+<!-- Your browser does not support the <code>audio</code> element. -->
 </audio>
 </div>
 <div id="inlineenclosure">
