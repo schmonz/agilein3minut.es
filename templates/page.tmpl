@@ -147,13 +147,13 @@
 
 <TMPL_IF ENCLOSURE>
 <TMPL_IF HTML5><section id="audio"><TMPL_ELSE><div id="audio"></TMPL_IF>
+<a class="feedbutton" href="/archive/index.rss">RSS</a> | <a href="/archive/index.rss">iTunes</a> | <a href="mailto:episode-announce-subscribe@agilein3minut.es">Email</a>
 <audio src="<TMPL_VAR ENCLOSURE>" preload="auto" controls="controls">
 Your browser does not support the <code>audio</code> element.
 </audio>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 <TMPL_IF HTML5><section id="enclosure"><TMPL_ELSE><div id="enclosure"></TMPL_IF>
 <a href="<TMPL_VAR ENCLOSURE>">Download</a>
-<br/><a class="feedbutton" href="/archive/index.rss">RSS</a> | <a href="/archive/index.rss">iTunes</a> | <a href="mailto:episode-announce-subscribe@agilein3minut.es">Email</a>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
 
