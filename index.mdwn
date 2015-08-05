@@ -10,6 +10,4 @@ rss=no
 archive=no
 ]]
 
------
-
-## [[More Episodes|archive]]
+## [[More Episodes...|archive]]
