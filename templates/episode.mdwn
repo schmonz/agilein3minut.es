@@ -4,15 +4,15 @@
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
 
-### The Question
+# The Question
 
 <em><TMPL_VAR NAME="question"></em>
 
-### Learn More
+# Learn More
 
 <TMPL_VAR NAME="learnmore">
 
-### Your Feedback
+# Your Feedback
 
 - [Comment on this episode](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
 - [Comment on the show backlog](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
