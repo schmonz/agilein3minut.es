@@ -77,7 +77,7 @@ to make sure your idea's got my attention, mention it here.
 7. Add enough [iTunes-specific metadata](http://ikiwiki.info/todo/fancypodcast/)
    to get listed in the iTunes podcast directory
 7. Get a real website design (including scalable logo)
-7. Link to ways listeners can support the show
+7. Style the audio player to look more inviting
 7. Publish the episode scripts
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
