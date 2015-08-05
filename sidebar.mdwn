@@ -8,8 +8,8 @@ pages="tag/* and !tag/episode"
 
 - [[About]]
 - [[All Episodes|archive]]
+- [[All Comments|comments]]
 - [[Backlog]]
-- [[Comments]]
 
 ## Your Host, Amitai
 
