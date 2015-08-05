@@ -1,5 +1,5 @@
 [[!meta author="Amitai Schlair"]]
-[[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
+[[!meta title="Episode <TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
