@@ -24,3 +24,11 @@
 .addcomment a[href]:before {
 	content: "→ ";
 }
+
+.pagedate {
+	display: none;
+}
+
+.tags {
+	display: none;
+}
