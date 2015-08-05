@@ -1,6 +1,6 @@
 # The simplest podcast that could possibly work.
 
-[[!inline pages="blurb/1" raw=yes]]
+[["Poetic gems. Insightful, concise and elegant."|about]]
 
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
