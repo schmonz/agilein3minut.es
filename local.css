@@ -48,3 +48,7 @@
 span.header {
 	margin-top: 0.5em;
 }
+
+#backlinks {
+	display: none;
+}
