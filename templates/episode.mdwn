@@ -1,5 +1,5 @@
 [[!meta author="Amitai Schlair"]]
-[[!meta title="Episode <TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
+[[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
@@ -7,9 +7,7 @@
 <em><TMPL_VAR NAME="question"></em>
 
 <div id="inlineaudio">
-<audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls">
-<!-- Your browser does not support the <code>audio</code> element. -->
-</audio>
+<audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls"></audio>
 </div>
 <div id="inlineenclosure">
 <a class="feedbutton" href="/archive/index.rss">RSS</a> | <a href="/ai3m<TMPL_VAR NAME=page>.mp3">Download</a> | <a href="mailto:episode-announce-subscribe@agilein3minut.es">Subscribe by email</a>
