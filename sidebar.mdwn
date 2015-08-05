@@ -4,14 +4,14 @@ pages="tag/* and !tag/episode"
 ]]
 -->
 
-## The Show
+# The Show
 
 - [[About]]
 - [[All Episodes|archive]]
 - [[All Comments|comments]]
 - [[Backlog]]
 
-## Your Host, Amitai
+# Your Host, Amitai
 
 [[!img
 images/30.jpg
