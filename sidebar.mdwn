@@ -7,12 +7,11 @@ pages="tag/* and !tag/episode"
 ## The Show
 
 - [[About]]
-- [[Archive]]
+- [[All Episodes|archive]]
 - [[Backlog]]
 - [[Comments]]
-- [[Support]]
 
-## Your Host
+## Your Host, Amitai
 
 [[!img
 images/30.jpg
