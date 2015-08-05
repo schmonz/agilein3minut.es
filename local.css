@@ -33,6 +33,10 @@
 	display: none;
 }
 
+#pageinfo {
+	display: none;
+}
+
 .tags {
 	display: none !important;
 }
