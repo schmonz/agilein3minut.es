@@ -19,7 +19,7 @@ Your browser does not support the <code>audio</code> element.
 
 <TMPL_VAR NAME="learnmore">
 
-# Your Feedback
+# Give Feedback
 
 - [Comment on this episode](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
 - [Comment on the show backlog](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
