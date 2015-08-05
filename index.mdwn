@@ -1,8 +1,6 @@
 # The simplest podcast that could possibly work.
 
-<blockquote>
 [[!inline pages="blurb/1" raw=yes]]
-</blockquote>
 
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
