@@ -10,3 +10,5 @@ trail=yes
 [[!trailoptions
 reverse=yes
 ]]
+
+[[!meta title="All Episodes"]]
