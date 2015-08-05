@@ -4,8 +4,6 @@
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
 
-## Show Notes
-
 ### The Question
 
 <em><TMPL_VAR NAME="question"></em>
