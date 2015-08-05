@@ -6,7 +6,7 @@ pages="tag/* and !tag/episode"
 
 # The Show
 
-- [[About]]
+- [[All About|about]]
 - [[All Episodes|archive]]
 - [[All Comments|comments]]
 - [[Backlog]]
