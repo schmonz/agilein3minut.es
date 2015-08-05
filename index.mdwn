@@ -1,12 +1,8 @@
 # The simplest podcast that could possibly work.
 
-[[!toggleable
-text="""
 [[!inline
-pages="about"
+pages="blurb/1"
 raw=yes
-]]
-"""
 ]]
 
 [[!inline
