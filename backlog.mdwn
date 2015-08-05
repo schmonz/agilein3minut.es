@@ -78,14 +78,23 @@ to make sure your idea's got my attention, mention it here.
    to get listed in the iTunes podcast directory
 7. Get a real website design (including scalable logo)
 7. Style the audio player to look more inviting
+7. In archives, show just the title and the question (and maybe the
+   date), no more
+7. Remove the very last horizontal rule on front page (every page?)
 7. Publish the episode scripts
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
 7. Provide iTunes-specific subscribe link (`itpc://`)
 7. Fix [W3C feed validation](https://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fagilein3minut.es%2Findex.rss) (might help with some podcatchers)
+7. Fix bug in feed generation: when I give [[archive]] the meta
+   title "All Episodes" to make the trail look nice, the generated
+   RSS feed is suddenly titled "All Episodes" instead of "Agile in
+   3 Minutes"
 7. Auto-tweet new episodes as [@AgileIn3Minutes](https://twitter.com/AgileIn3Minutes)
 7. Auto-RT as [@schmonz](https://twitter.com/schmonz) (and other social media)
 
 ## Your feedback here
 
 To suggest a new topic, or bump up one of these...
+
+[Add a comment](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
