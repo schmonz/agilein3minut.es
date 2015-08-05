@@ -20,6 +20,6 @@ title="headshot"
 link="http://www.schmonz.com"
 ]]
 
-Software development coach. Legacy code wrestler. NetBSD and
-Philolexian Foundation director. Non-award-winning musician.
-Award-winning bad poet. [More...](http://www.schmonz.com)
+[Software development coach](http://www.schmonz.com/coach/). Legacy
+code wrestler. NetBSD and Philolexian Foundation director.
+Non-award-winning musician. Award-winning bad poet.
