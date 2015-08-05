@@ -1,18 +1,13 @@
 # The simplest podcast that could possibly work.
 
+[[!inline pages="blurb/1" raw=yes]]
+
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
 show=1
 actions=yes
 rss=no
 archive=no
-]]
-
-[[!template
-id="note"
-text="""
-[[!inline pages="blurb/1" raw=yes]]
-"""
 ]]
 
 -----
