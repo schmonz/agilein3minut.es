@@ -92,6 +92,7 @@ to make sure your idea's got my attention, mention it here.
    3 Minutes"
 7. Auto-tweet new episodes as [@AgileIn3Minutes](https://twitter.com/AgileIn3Minutes)
 7. Auto-RT as [@schmonz](https://twitter.com/schmonz) (and other social media)
+7. Support [Twitter Cards](https://dev.twitter.com/cards/overview) for nicer tweets.
 
 ## Your feedback here
 
