@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Connect"
+date="2015-08-11 07:00:00"
+tags="connection maps complex-adaptive options consequence feedback influence intuition knowledge risk trust wrong"
+question="How do you think of the right ideas at the right times?"
+learnmore="""
+- [[!c2 desc="Mental Model" MentalModel]]
+- [[!wikipedia Complex_adaptive_system]]
+"""
+]]
