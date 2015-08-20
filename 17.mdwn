@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Value"
+date="2015-08-18 07:00:00"
+tags="value preconception problem deliver customer team working-software customer-collaboration responding-to-change individuals-and-interactions trade care connection cost feedback influence love manifesto needs options"
+question="What's most important to you?"
+learnmore="""
+- [[!c2 desc="Business Value First" BusinessValueFirst]]
+- [[!wikipedia Business_value]]
+"""
+]]
