@@ -1,5 +1,5 @@
 [[!template id="blurb"
 quote="Great series of micro-podcasts on agile topics. High-signal for noobs."
-author="Michael D. Hill"
+author="Michael D. \"GeePaw\" Hill"
 twitter="GeePawHill"
 ]]
