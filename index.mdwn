@@ -1,6 +1,6 @@
 # The simplest podcast that could possibly work.
 
-_[[_"Poetic gems. Insightful, concise and elegant."_|about]]_
+People are saying: _"Poetic gems. Insightful, concise and elegant."_ [[More...|about]]
 
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
