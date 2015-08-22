@@ -1,12 +1,15 @@
 [[!meta title="About the Show"]]
 
-Whatever "Agile" might mean, one thing's for sure: it's the opposite
-of telling people what to go do. But we don't need a precise
-definition of "Agile," because neither of us needs to judge whether
-we are or are not. We just need to make risks visible early, make
-informed decisions often, and deliver value early and often.
+We don't need a precise definition of "Agile," because we don't
+need to judge whether we are or are not. We just need to
 
-Agile in 3 Minutes is about doing business effectively.
+- Make risks visible early,
+- Make informed decisions often, and
+- Deliver value early and often.
+
+_Agile in 3 Minutes_ is about doing business effectively.
+
+## What People Are Saying
 
 [[!inline
 pages="blurb/*"
@@ -16,11 +19,13 @@ raw=yes
 
 ## My Goals
 
-7. Every time someone chooses to listen, they feel their time,
-   intelligence, and humanity are respected.
+7. Demonstrate my respect for your time, attention, intelligence,
+   and humanity.
 
-7. Every time someone seeks an episode on the topic of `$FOO`, for
-   all reasonable values of `$FOO`, it exists. Until this is the
-   case, I intend to release a new episode every week.
+7. Write, edit, and record every episode with such care that it
+   might wind up being your favorite.
 
-7. Every episode could be someone's favorite.
+7. Release a new episode every week, until I've covered every topic
+   you could possibly want to hear about.
+
+7. Within these constraints, experiment freely.
