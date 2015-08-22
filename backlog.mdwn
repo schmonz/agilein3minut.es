@@ -85,6 +85,9 @@ to make sure your idea's got my attention, mention it here.
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
 7. Provide iTunes-specific subscribe link (`itpc://`)
+7. For "Subscribe by email", have a text field that submits a form
+   (not a `mailto:` URL that launches a perhaps nonexistent locally
+   configured mailer)
 7. Fix [W3C feed validation](https://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fagilein3minut.es%2Findex.rss) (might help with some podcatchers)
 7. Fix bug in feed generation: when I give [[archive]] the meta
    title "All Episodes" to make the trail look nice, the generated
