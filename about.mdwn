@@ -1,13 +1,16 @@
 [[!meta title="About the Show"]]
 
-We don't need a precise definition of "Agile," because we don't
-need to judge whether we are or are not. We just need to
+_Agile in 3 Minutes_ is a micropodcast about thinking and doing
+business effectively.
+
+I don't offer a precise definition of "Agile," because I don't think
+we need to judge whether we are or aren't. We just need to
 
 - Make risks visible early,
 - Make informed decisions often, and
 - Deliver value early and often.
 
-_Agile in 3 Minutes_ is about doing business effectively.
+If you agree, this show is for you.
 
 ## What People Are Saying
 
@@ -28,4 +31,4 @@ raw=yes
 7. Release a new episode every week, until I've covered every topic
    you could possibly want to hear about.
 
-7. Within these constraints, experiment freely.
+7. Experiment freely within these constraints.
