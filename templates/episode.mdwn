@@ -4,7 +4,7 @@
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode <TMPL_VAR NAME="tags">]]
 
-<em><TMPL_VAR NAME="question"></em>
+<TMPL_VAR NAME="question">
 
 <div id="inlineaudio">
 <audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls"></audio>
