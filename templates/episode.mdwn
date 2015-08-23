@@ -1,3 +1,13 @@
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@schmonz">
+<meta name="twitter:title" content="Agile in 3 Minutes <TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>">
+<meta name="twitter:description" content="<TMPL_VAR NAME=question>">
+<meta name="twitter:image" content="http://agilein3minut.es/images/ai3m.png">
+<meta name="twitter:player" content="http://agilein3minut.es/twitter-card-container.html">
+<meta name="twitter:player:width" content="480">
+<meta name="twitter:player:height" content="480">
+<meta name="twitter:player:stream" content="http://agilein3minut.es/ai3m<TMPL_VAR NAME=page>.mp3">
+<meta name="twitter:player:stream:content_type" content="audio/mp3">
 [[!meta author="Amitai Schlair"]]
 [[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
