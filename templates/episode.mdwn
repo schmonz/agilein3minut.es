@@ -6,8 +6,6 @@
 <meta name="twitter:player" content="https://agilein3minut.es/twitter-card-container.html">
 <meta name="twitter:player:width" content="480">
 <meta name="twitter:player:height" content="480">
-<meta name="twitter:player:stream" content="https://agilein3minut.es/ai3m<TMPL_VAR NAME=page>.mp3">
-<meta name="twitter:player:stream:content_type" content="audio/mpeg">
 [[!meta author="Amitai Schlair"]]
 [[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
