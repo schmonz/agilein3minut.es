@@ -19,6 +19,6 @@
 
 # Give Feedback
 
-- [Comment on this episode](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
-- [Comment on the show backlog](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
+- [Comment on this episode](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
+- [Comment on the show backlog](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
 - [[Support the show|support]]

@@ -88,7 +88,7 @@ to make sure your idea's got my attention, mention it here.
 7. For "Subscribe by email", have a text field that submits a form
    (not a `mailto:` URL that launches a perhaps nonexistent locally
    configured mailer)
-7. Fix [W3C feed validation](https://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fagilein3minut.es%2Findex.rss) (might help with some podcatchers)
+7. Fix [W3C feed validation](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fagilein3minut.es%2Findex.rss) (might help with some podcatchers)
 7. Fix bug in feed generation: when I give [[archive]] the meta
    title "All Episodes" to make the trail look nice, the generated
    RSS feed is suddenly titled "All Episodes" instead of "Agile in
@@ -102,4 +102,4 @@ to make sure your idea's got my attention, mention it here.
 
 To suggest a new topic, or bump up one of these...
 
-[Add a comment](http://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
+[Add a comment](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
