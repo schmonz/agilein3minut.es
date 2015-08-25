@@ -82,6 +82,8 @@ to make sure your idea's got my attention, mention it here.
    date), no more
 7. Remove the very last horizontal rule on front page (every page?)
 7. Publish the episode scripts
+7. Since the feature's turned off, hide "or signin" on the comment form.
+7. To afford commenting, inline the comment form into episode pages.
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
 7. Provide iTunes-specific subscribe link (`itpc://`)
