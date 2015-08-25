@@ -3,7 +3,7 @@
 <meta name="twitter:title" content="Agile in 3 Minutes <TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>">
 <meta name="twitter:description" content="<TMPL_VAR NAME=question>">
 <meta name="twitter:image" content="https://agilein3minut.es/images/ai3m.png">
-<meta name="twitter:player" content="https://agilein3minut.es/twitter-card-container.html">
+<meta name="twitter:player" content="https://agilein3minut.es/twittercard/<TMPL_VAR NAME=page>">
 <meta name="twitter:player:width" content="480">
 <meta name="twitter:player:height" content="480">
 [[!meta author="Amitai Schlair"]]
