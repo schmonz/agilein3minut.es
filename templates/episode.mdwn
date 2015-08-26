@@ -4,6 +4,7 @@
 <meta name="twitter:description" content="<TMPL_VAR NAME=question>">
 <meta name="twitter:player" content="https://agilein3minut.es/twittercard/<TMPL_VAR NAME=page>/">
 <meta name="twitter:player:width" content="480">
+<meta name="twitter:player:height" content="50">
 [[!meta author="Amitai Schlair"]]
 [[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
