@@ -1,3 +1,7 @@
+.pageheader .actions {
+	display: none;
+}
+
 .pageheader .trails {
 	display: none;
 }
