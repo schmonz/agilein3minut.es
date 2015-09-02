@@ -1,0 +1,11 @@
+[[!template id="episode"
+title="Scope"
+date="2015-09-01 07:00:00"
+tags="scope definition-of-done done batch-size waste choice complex-adaptive confidence constraint control cost customer-collaboration decision deliver estimate feedback knowledge needs options pace prediction responding-to-change risk safety value working-software wrong"
+question="How do you ever get anything done?"
+learnmore="""
+- [[!c2 AlmostDone]]
+- [[!c2 HowDoYouKnowWhenYouAreDone]]
+- [[!wikipedia Scope_(project_management)]]
+"""
+]]
