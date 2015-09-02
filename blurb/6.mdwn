@@ -1,5 +1,5 @@
 [[!template id="blurb"
-quote="Much more digestible than traditional length podcasts!"
-author="Aaron Griffith"
-twitter="Aaron_Griffith"
+quote="You manage to make me think harder in those three minutes than most do in a way way longer duration."
+author="Daniel Davis"
+twitter="daniel_davis"
 ]]
