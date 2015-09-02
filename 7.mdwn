@@ -5,6 +5,6 @@ tags="fear risk knowledge feedback"
 question="What's there to be afraid of?"
 learnmore="""
 - [[!wikipedia Cognitive_load]]
-- [[!c2 desc="Big Visible Chart" BigVisibleChart]]
+- [[!c2 BigVisibleChart]]
 """
 ]]

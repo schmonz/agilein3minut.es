@@ -5,6 +5,6 @@ tags="fear pain risk wrong care love knowledge feedback"
 question="How can others tell what matters to you?"
 learnmore="""
 - [[!wikipedia Philosophy_of_love]]
-- [[!c2 desc="Courage" XpCourageValue]]
+- [[!c2 XpCourageValue]]
 """
 ]]

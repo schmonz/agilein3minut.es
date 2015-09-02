@@ -6,6 +6,6 @@ question="How often do people do as you suggest?"
 learnmore="""
 - [[!wikipedia Power_(social_and_political)]]
 - [[!wikipedia Social_influence]]
-- [[!c2 desc="Power Versus Authority" PowerVersusAuthority]]
+- [[!c2 PowerVersusAuthority]]
 """
 ]]

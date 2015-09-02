@@ -4,8 +4,8 @@ date="2015-07-28 07:00:00"
 tags="pace overtime hours care comfort consequence feedback needs pain"
 question="How much do you demand of yourself and others?"
 learnmore="""
-- [[!c2 desc="Sustainable pace" SustainablePace]]
-- [[!c2 desc="40-hour week" FortyHourWeek]]
-- [[!c2 desc="Overtime" OverTime]]
+- [[!c2 SustainablePace]]
+- [[!c2 FortyHourWeek]]
+- [[!c2 OverTime]]
 """
 ]]
