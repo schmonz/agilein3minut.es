@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Project"
+date="2015-09-08 07:00:00"
+tags="project backlog batch-size bet choice confidence constraint cost customer-collaboration decision deliver done estimate feedback needs options prediction responding-to-change risk scope value working-software wrong"
+question="Given where you're coming from, where are you headed?"
+learnmore="""
+- [[!c2 DefinitionOfProject]]
+- [[!wikipedia Project_management]]
+"""
+]]
