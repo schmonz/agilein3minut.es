@@ -59,7 +59,9 @@ to make sure your idea's got my attention, mention it here.
 7. Values
     7. Individuals and interactions over processes and tools
     7. Working software over comprehensive documentation
-    7. Customer collaboration over contract negotiation
+    7. [Customer
+       collaboration](https://plus.google.com/u/0/116661768868479920029/posts/8GdfFg3BLyp)
+       over contract negotiation
     7. Responding to change over following a plan
     7. Simplicity
     7. Communication
@@ -74,7 +76,7 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible site enhancements
 
-7. Add enough [iTunes-specific metadata](http://ikiwiki.info/todo/fancypodcast/)
+7. Add enough [[!iki desc="iTunes-specific metadata" todo/fancypodcast]]
    to get listed in the iTunes podcast directory
 7. Get a real website design (including scalable logo)
 7. Style the audio player to look more inviting
