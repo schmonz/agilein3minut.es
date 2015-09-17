@@ -1,0 +1,13 @@
+[[!template id="episode"
+title="Predict"
+date="2015-09-15 07:00:00"
+tags="prediction theory accuracy iron-triangle consequence control cost decision deliver estimate feedback intuition pace pain preconception project risk scope trade waste wrong"
+question="What's your theory of software development?
+learnmore="""
+- [[!c2 IncompatibleGoals]]
+- [[!c2 FourVariables]]
+- [[!wikipedia Project_management_triangle]]
+- [[!wikipedia Newton%27s_laws_of_motion]]
+- [[!wikipedia Time_dilation]]
+"""
+]]
