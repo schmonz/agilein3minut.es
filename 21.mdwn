@@ -1,7 +1,7 @@
 [[!template id="episode"
 title="Predict"
 date="2015-09-15 07:00:00"
-tags="prediction theory accuracy iron-triangle consequence control cost decision deliver estimate feedback intuition pace pain preconception project risk scope trade waste wrong"
+tags="prediction theory iron-triangle time-horizon speed accuracy consequence control cost decision deliver estimate feedback intuition pace pain preconception project risk scope trade waste wrong"
 question="What's your theory of software development?"
 learnmore="""
 - [[!c2 IncompatibleGoals]]
