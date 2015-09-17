@@ -7,7 +7,7 @@ learnmore="""
 - [[!c2 IncompatibleGoals]]
 - [[!c2 FourVariables]]
 - [[!wikipedia Project_management_triangle]]
-- [[!wikipedia Newton%27s_laws_of_motion]]
+- [[!wikipedia Newton's_laws_of_motion]]
 - [[!wikipedia Time_dilation]]
 """
 ]]
