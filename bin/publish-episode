@@ -1,0 +1,34 @@
+#!/bin/sh
+ 
+EPISODE_NUMBER=21
+EPISODE_TITLE="Predict"
+EPISODE_SUMMARY="What's your theory of software development?"
+
+#####
+ 
+INPUT_AIFF_FILE="ai3m${EPISODE_NUMBER}.aiff"
+ 
+SHOW_ALBUM="Agile in 3 Minutes"
+SHOW_AUTHOR="Amitai Schlair"
+ 
+# Artwork: ideally 1400x1400, but less than 128 KB to maximize compatibility
+ARTWORK_JPG_FILENAME="$HOME/Documents/trees/agilein3minut.es/src/images/ai3m.png"
+ 
+# Output quality (kbps): 96 or 64 recommended
+MP3_KBPS=96
+ 
+lame --noreplaygain --cbr -h -b $MP3_KBPS --resample 44.1 --tt "$EPISODE_NUMBER: $EPISODE_TITLE" --tc "$EPISODE_SUMMARY" --ta "$SHOW_AUTHOR" --tl "$SHOW_ALBUM" --ty `date '+%Y'` --ti "$ARTWORK_JPG_FILENAME" --add-id3v2 "$INPUT_AIFF_FILE" "${INPUT_AIFF_FILE%%.aiff}.mp3"
+exit $?
+
+cat <<EOF
+Manually process audio with Audacity. Export AIFF.
+Pass episode number and question to LAME encoder.
+Delete AIFF leftovers.
+Create "number.mdwn" and "twittercard/number/index.html"
+Manually set tags and learn-more links on "number.mdwn"
+"git add ai3mnumber.mp3 number.mdwn twittercard/number/index.html"
+"git commit -m 'Add episode number'"
+"git push"
+Manually create Patreon post.
+Manually tweet snippets throughout the day.
+EOF
