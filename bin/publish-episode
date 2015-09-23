@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=21
-EPISODE_TITLE="Predict"
-EPISODE_SUMMARY="What's your theory of software development?"
+EPISODE_NUMBER=22
+EPISODE_TITLE="Control"
+EPISODE_SUMMARY="How much is under your control?"
 
 #####
  
