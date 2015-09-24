@@ -8,6 +8,7 @@
 	<link><TMPL_VAR PERMALINK></link>
 <TMPL_IF AUTHOR>
 	<dc:creator><TMPL_VAR AUTHOR ESCAPE=HTML></dc:creator>
+	<itunes:author>Amitai Schlair</itunes:author>
 </TMPL_IF>
 <TMPL_IF CATEGORIES>
 <TMPL_LOOP CATEGORIES>
@@ -18,6 +19,7 @@
 	<dcterms:modified><TMPL_VAR MDATE_3339></dcterms:modified>
 <TMPL_IF ENCLOSURE>
 	<enclosure url="<TMPL_VAR ENCLOSURE>" type="<TMPL_VAR TYPE>" length="<TMPL_VAR LENGTH>" />
+	<itunes:image href="https://agilein3minut.es/images/ai3m.png" />
 </TMPL_IF>
 <TMPL_UNLESS SIMPLEPODCAST>
 	<description><TMPL_VAR CONTENT ESCAPE=HTML></description>
