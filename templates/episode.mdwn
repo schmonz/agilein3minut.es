@@ -17,7 +17,7 @@
 <audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls"></audio>
 </div>
 <div id="inlineenclosure">
-<a href="https://itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-sm.svg) no-repeat;width:80px;height:15px;"></a> | <a class="feedbutton" href="/archive/index.rss">RSS</a> | <a href="/ai3m<TMPL_VAR NAME=page>.mp3">Download</a> | <a href="mailto:episode-announce-subscribe@agilein3minut.es">Subscribe by email</a>
+<a href="https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2">iTunes</a> | <a class="feedbutton" href="/archive/index.rss">RSS</a> | <a href="/ai3m<TMPL_VAR NAME=page>.mp3">Download</a> | <a href="mailto:episode-announce-subscribe@agilein3minut.es">Subscribe by email</a>
 </div>
 
 # Learn More
