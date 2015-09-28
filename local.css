@@ -26,17 +26,6 @@
 	margin: 1em 2em;
 }
 
-#enclosure a[href^="http:"]:before,
-#enclosure a[href^="https:"]:before,
-#inlineenclosure a[href^="http:"]:before,
-#inlineenclosure a[href^="https:"]:before {
-	content: "↓ ";
-}
-
-.addcomment a[href]:before {
-	content: "→ ";
-}
-
 .addcomment {
 	display: none;
 }
