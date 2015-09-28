@@ -86,7 +86,6 @@ to make sure your idea's got my attention, mention it here.
 7. To afford commenting, inline the comment form into episode pages.
 7. Show "Add a comment" link on home page (auto-included latest episode)
 7. Show "Please 'Add a comment' on..." only in RSS feed (not HTML pages)
-7. Provide iTunes-specific subscribe link (`itpc://`)
 7. For "Subscribe by email", have a text field that submits a form
    (not a `mailto:` URL that launches a perhaps nonexistent locally
    configured mailer)
