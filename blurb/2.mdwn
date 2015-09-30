@@ -1,6 +1,6 @@
 [[!template id="blurb"
-quote="Made me tear up."
-episode="Care|/8"
-author="Diane Zajac-Woodie"
-twitter="AgileSquirrel"
+quote="Stunningly awesome -- and it only takes 3 minutes."
+episode="Wrong|/5"
+author="Ruth Malan"
+twitter="ruthmalan"
 ]]

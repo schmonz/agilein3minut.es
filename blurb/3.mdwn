@@ -1,5 +1,5 @@
 [[!template id="blurb"
-quote="30 seconds in - I'm sold!"
-author="Marcus Hammarberg"
-twitter="marcusoftnet"
+quote="Great series of micro-podcasts on agile topics. High-signal for noobs."
+author="""Michael D. "GeePaw" Hill"""
+twitter="GeePawHill"
 ]]

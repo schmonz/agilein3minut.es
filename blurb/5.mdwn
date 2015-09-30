@@ -1,6 +1,0 @@
-[[!template id="blurb"
-quote="Stunningly awesome -- and it only takes 3 minutes."
-episode="Wrong|/5"
-author="Ruth Malan"
-twitter="ruthmalan"
-]]
