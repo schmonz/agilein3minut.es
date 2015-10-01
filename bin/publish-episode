@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=22
-EPISODE_TITLE="Control"
-EPISODE_SUMMARY="How much is under your control?"
+EPISODE_NUMBER=23
+EPISODE_TITLE="Vary"
+EPISODE_SUMMARY="What do you wish would stop changing?"
 
 #####
  

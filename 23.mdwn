@@ -1,0 +1,11 @@
+[[!template id="episode"
+title="Vary"
+date="2015-09-29 07:00:00"
+tags="vary variable trade variance rework efficiency individuals-and-interactions leverage risk confidence accuracy control bet variation value project variant needs pain cost safety feedback trust outcome"
+question="What do you wish would stop changing?"
+learnmore="""
+- [[!c2 TheCostOfInefficiency]]
+- [[!wikipedia Leverage_(finance)]]
+- [[!wikipedia Efficiency]]
+"""
+]]
