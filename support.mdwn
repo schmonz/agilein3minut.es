@@ -26,6 +26,13 @@ prefer:
 - [Donate with Patreon](https://www.patreon.com/schmonz)
 - [Donate with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
 
+## Read
+
+Want to ruminate on the ideas at your own pace? 3 minutes goes by
+fast. Make a one-time donation and take your sweet time.
+
+- [Donate with Leanpub](https://leanpub.com/agilein3minutes)
+
 <!--
 
 See http://ikiwiki.info/tipjar/
