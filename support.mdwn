@@ -1,6 +1,9 @@
 [[!meta title="Support the Show"]]
 
-## How you can help
+You already help me by listening and thinking about what you hear.
+Would you be willing to help me a bit more?
+
+## Share
 
 The only acceptance tests I've got are your reactions. Heard an
 episode that missed the mark for you, by a lot or a little? [Tweet
@@ -8,9 +11,13 @@ at me](https://twitter.com/schmonz) so I can better understand how
 to meet your needs. Heard an episode you particularly appreciate?
 Share it freely.
 
+## Suggest
+
 Got an idea for a topic, or anything else I might consider doing?
 [Stick it on the
 backlog](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog).
+
+## Pay
 
 Feel like dropping me a few bucks? They'll go toward hosting and
 equipment costs, and you'll be encouraging me to keep at it. As you
