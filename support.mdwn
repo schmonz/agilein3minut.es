@@ -8,16 +8,18 @@ Would you be willing to help a bit more?
 ## Share
 
 The only acceptance tests I've got are your reactions. Heard an
-episode that missed the mark for you, by a lot or a little? [Tweet
-at me](https://twitter.com/schmonz) so I can better understand how
-to meet your needs. Heard an episode you particularly appreciate?
-Share it freely.
+episode that missed the mark for you, by a lot or a little? I'd
+like the opportunity to better understand how to meet your needs.
+Heard an episode you particularly appreciate? Share it freely.
+
+- [Tweet at me](https://twitter.com/schmonz)
 
 ## Suggest
 
 Got an idea for a topic, or anything else I might consider doing?
-[Stick it on the
-backlog](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog).
+
+- [Add to the
+  backlog](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=backlog)
 
 ## Review
 
