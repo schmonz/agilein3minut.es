@@ -35,5 +35,4 @@ link="http://www.schmonz.com"
 ]]
 
 [Software development coach](http://www.schmonz.com/coach/). Legacy
-code wrestler. NetBSD and Philolexian Foundation director.
-Non-award-winning musician. Award-winning bad poet.
+code wrestler.  Non-award-winning musician. Award-winning bad poet.
