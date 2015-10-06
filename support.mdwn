@@ -1,5 +1,7 @@
 [[!meta title="Support the Show"]]
 
+Does _Agile in 3 Minutes_ help you in your work?
+
 By listening and thinking about what you hear, you already help me.
 Would you be willing to help a bit more?
 
@@ -24,22 +26,22 @@ it and how it's helped you by posting a review on
 [iTunes](https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2)
 or [Stitcher](http://www.stitcher.com/s?fid=74689&refid=stpr).
 
-## Pay
-
-Feel like dropping me a few bucks? They'll go toward hosting and
-equipment costs, and you'll be encouraging me to keep at it. As you
-prefer:
-
-- [Donate with Patreon](https://www.patreon.com/schmonz)
-- [Donate with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
-
 ## Read
 
 Want to ruminate on the ideas at your own pace? 3 minutes goes by
-fast. Take your sweet time with the simplest essays that could
-possibly work:
+fast. Make a one-time payment, then take your sweet time with the
+simplest essays that could possibly work:
 
 - [Donate with Leanpub](https://leanpub.com/agilein3minutes)
+
+## Drip-fund
+
+Feel like dropping me a few bucks per episode? They'll go toward
+hosting and equipment costs, and you'll be encouraging me to keep
+at it. As you prefer:
+
+- [Donate with Patreon](https://www.patreon.com/schmonz)
+- [Donate with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
 
 <!--
 
