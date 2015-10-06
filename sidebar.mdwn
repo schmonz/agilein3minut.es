@@ -11,6 +11,20 @@ pages="tag/* and !tag/episode"
 - [[All Comments|comments]]
 - [[Backlog]]
 
+[[!img
+images/itunes.png
+alt="iTunes"
+title="iTunes"
+link="https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2"
+]]
+
+[[!img
+images/stitcher.png
+alt="Stitcher"
+title="Stitcher"
+link="http://www.stitcher.com/s?fid=74689&refid=stpr"
+]]
+
 # Your Host, Amitai
 
 [[!img
