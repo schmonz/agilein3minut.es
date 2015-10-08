@@ -1,0 +1,9 @@
+[[!template id="episode"
+title="Invalidate"
+date="2015-10-06 07:00:00"
+tags="invalidate validate knowledge feedback backlog decision risk cost value deliver needs confidence discipline outcome consequence context customer-collaboration efficiency intuition priority working-software wrong"
+question="How do you know you know what you think you know?"
+learnmore="""
+- [[!c2 BigDesignUpFront]]
+"""
+]]

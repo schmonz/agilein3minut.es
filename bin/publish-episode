@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=23
-EPISODE_TITLE="Vary"
-EPISODE_SUMMARY="What do you wish would stop changing?"
+EPISODE_NUMBER=24
+EPISODE_TITLE="Invalidate"
+EPISODE_SUMMARY="How do you know you know what you think you know?"
 
 #####
  
@@ -30,5 +30,6 @@ Manually set tags and learn-more links on "number.mdwn"
 "git commit -m 'Add episode number'"
 "git push"
 Manually create Patreon post.
+Manually trigger Leanpub book rebuild.
 Manually tweet snippets throughout the day.
 EOF
