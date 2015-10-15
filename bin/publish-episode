@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=24
-EPISODE_TITLE="Invalidate"
-EPISODE_SUMMARY="How do you know you know what you think you know?"
+EPISODE_NUMBER=25
+EPISODE_TITLE="Release"
+EPISODE_SUMMARY="What if your only chance to deliver to production was Friday evenings?"
 
 #####
  

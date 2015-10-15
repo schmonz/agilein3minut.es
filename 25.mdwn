@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Release"
+date="2015-10-13 07:00:00"
+tags="release deliver needs risk decision value effective working-software cost pain agency discipline skill joy ready knowledge safety customer feedback batch-size confidence consequence definition-of-done overtime responding-to-change time-horizon trust"
+question="What if your only chance to deliver to production was Friday evenings?"
+learnmore="""
+- [[!wikipedia Extreme_programming]]
+- [[!wikipedia Cost_of_delay]]
+"""
+]]
