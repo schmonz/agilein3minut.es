@@ -26,6 +26,13 @@ link="http://www.stitcher.com/s?fid=74689&refid=stpr"
 ]]
 
 [[!img
+images/patreon.png
+alt="Patreon"
+title="Patreon"
+link="https://www.patreon.com/schmonz"
+]]
+
+[[!img
 images/leanpub.png
 alt="Leanpub"
 title="Leanpub"
