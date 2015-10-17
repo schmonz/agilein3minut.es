@@ -25,6 +25,13 @@ title="Stitcher"
 link="http://www.stitcher.com/s?fid=74689&refid=stpr"
 ]]
 
+[[!img
+images/leanpub.png
+alt="Leanpub"
+title="Leanpub"
+link="https://leanpub.com/agilein3minutes"
+]]
+
 # Your Host, Amitai
 
 [[!img
