@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=25
-EPISODE_TITLE="Release"
-EPISODE_SUMMARY="What if your only chance to deliver to production was Friday evenings?"
+EPISODE_NUMBER=26
+EPISODE_TITLE="Surprise"
+EPISODE_SUMMARY="What might happen if you deliver the unexpected?"
 
 #####
  
