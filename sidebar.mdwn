@@ -42,7 +42,8 @@ link="https://leanpub.com/agilein3minutes"
 # Your Host, Amitai
 
 [[!img
-images/30.jpg
+images/muscatatuck_face.jpg
+size=100x100
 alt="headshot"
 title="headshot"
 link="http://www.schmonz.com"
