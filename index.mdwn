@@ -4,8 +4,6 @@ People are saying: _"Poetic gems. Insightful, concise and elegant."_ [[More...|a
 
 [[!inline
 pages="page(*) and tagged(episode) and !templates/episode"
-sort=path
-reverse=yes
 show=1
 actions=yes
 rss=no
