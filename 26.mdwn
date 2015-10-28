@@ -4,6 +4,13 @@ date="2015-10-20 07:00:00"
 tags="surprise bet care delight deliver feedback joy love practice"
 question="What might happen if you deliver the unexpected?"
 learnmore="""
+## Wait!
+
+If you haven't been listening to Agile in 3 Minutes, don't start
+here. Start with [[any other episode|archive]] but this one.
+
+## Okay
+
 I've listened. [[Details]], please?
 """
 ]]
