@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Suffice"
+date="2015-10-27 07:00:00"
+tags="suffice surprise feedback waste deliver influence effective safety comfort needs"
+question="What's good enough?"
+learnmore="""
+- [[!c2 CleanTheKitchen]]
+- [[!c2 GoodEnough]]
+"""
+]]
