@@ -29,7 +29,6 @@ to make sure your idea's got my attention, mention it here.
     7. Story estimates (conflating complexity with number of days
        to complete)
 7. ["Say/do" ratio](https://twitter.com/_swanson/status/594141675695419392)
-7. [Sprint "commitments"](https://twitter.com/_swanson/status/594141675695419392)
 7. [Feedback cycles](http://twitter.com/Snibble/status/594314526004105216)
 7. Transparency
 7. [Certifications](https://twitter.com/mattbarcomb/status/595397392779845635)
@@ -71,7 +70,6 @@ to make sure your idea's got my attention, mention it here.
     7. Courage
     7. Focus
     7. Openness
-    7. Commitment
 7. Actions
     7. Doing it and helping others do it
 

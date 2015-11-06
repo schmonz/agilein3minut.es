@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=27
-EPISODE_TITLE="Suffice"
-EPISODE_SUMMARY="What's good enough?"
+EPISODE_NUMBER=28
+EPISODE_TITLE="Commit"
+EPISODE_SUMMARY="What promises can we hope to keep?"
 
 #####
  
