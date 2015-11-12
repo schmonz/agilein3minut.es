@@ -1,0 +1,11 @@
+[[!template id="episode"
+title="Refactor"
+date="2015-11-11 07:00:00"
+tags="refactor cost perfection factor factoring problem refactoring design behavior safety risk consequence estimate accuracy care comfort confidence discipline feedback freedom intuition joy knowledge pace scope skill speed time-horizon"
+question="How much will it cost to add your next feature?"
+learnmore="""
+- [[!c2 WhatIsRefactoring]]
+- [[!c2 BigRefactoringsAreHard]]
+- [[!wikipedia Code_refactoring]]
+"""
+]]
