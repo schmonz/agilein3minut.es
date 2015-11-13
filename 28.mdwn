@@ -1,6 +1,6 @@
 [[!template id="episode"
 title="Commit"
-date="2015-11-04 07:00:00"
+date="2015-11-03 07:00:00"
 tags="commit control customer commitment safety source-control code data database rollback revert options force pace promise team definition-of-ready definition-of-done definition-of-committed choice comfort illusion-of-control care love needs team"
 question="What promises can we hope to keep?"
 learnmore="""
