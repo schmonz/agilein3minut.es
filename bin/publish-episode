@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=29
-EPISODE_TITLE="Refactor"
-EPISODE_SUMMARY="How much will it cost to add your next feature?"
+EPISODE_NUMBER=30
+EPISODE_TITLE="Own"
+EPISODE_SUMMARY="Who decides?"
 
 #####
  
