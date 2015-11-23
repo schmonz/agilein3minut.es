@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=30
-EPISODE_TITLE="Own"
-EPISODE_SUMMARY="Who decides?"
+EPISODE_NUMBER=31
+EPISODE_TITLE="Integrate"
+EPISODE_SUMMARY="How production-ready is today's code?"
 
 #####
  

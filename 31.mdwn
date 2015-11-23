@@ -1,0 +1,10 @@
+[[!template id="episode"
+title="Integrate"
+date="2015-11-24 07:00:00"
+tags="integrate waste value continuous-integration automation radiator build code customer team release perfection risk ready done review merge commit test build pain batch-size prediction care comfort pairing mobbing control cost deliver feedback knowledge pace working-software"
+question="How production-ready is today's code?"
+learnmore="""
+- [[!wikipedia Continuous_integration]]
+- [[!c2 InformationRadiator]]
+"""
+]]
