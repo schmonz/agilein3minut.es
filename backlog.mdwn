@@ -92,6 +92,7 @@ to make sure your idea's got my attention, mention it here.
    make the trail look nice) without changing the RSS feed's title
    from "Agile in 3 Minutes" to "All Episodes"
 7. Auto-tweet new episodes as [@AgileIn3Minutes](https://twitter.com/AgileIn3Minutes)
+7. [Auto-tweet old episodes with Buffer](https://twitter.com/timothep/status/673006652799492096)
 7. Include the @AgileIn3Minutes timeline in the sidebar
 7. Auto-RT as [@schmonz](https://twitter.com/schmonz) (and other social media)
 7. Support [Open Graph](https://developers.facebook.com/docs/opengraph/music) for nicer Facebook and LinkedIn posts.
