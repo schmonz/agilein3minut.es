@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=31
-EPISODE_TITLE="Integrate"
-EPISODE_SUMMARY="How production-ready is today's code?"
+EPISODE_NUMBER=32
+EPISODE_TITLE="Mob"
+EPISODE_SUMMARY="How can your team become more capable and predictable?"
 
 #####
  
