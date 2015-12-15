@@ -1,8 +1,8 @@
 #!/bin/sh
  
-EPISODE_NUMBER=32
-EPISODE_TITLE="Mob"
-EPISODE_SUMMARY="How can your team become more capable and predictable?"
+EPISODE_NUMBER=33
+EPISODE_TITLE="Confirm"
+EPISODE_SUMMARY="What do you need from this program?"
 
 #####
  

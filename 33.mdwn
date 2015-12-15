@@ -1,0 +1,35 @@
+[[!template id="episode"
+title="Confirm"
+date="2015-12-15 07:00:00"
+tags="confirm story card conversation confirmation card-conversation-confirmation needs knowledge effort discipline skill test useful project confidence agency care commitment connection customer-collaboration deliver effective experience feedback individuals-and-interactions influence intuition love pace responding-to-change retrospective review trade validate value"
+question="What do you need from this program?"
+learnmore="""
+- [[!wikipedia User_story]]
+- [[!c2 InvestModelForUserStories]]
+
+# Help Me In 2016
+
+How is this show useful to you? How could it become more so? **Help
+me understand your needs** in your own words:
+
+- [On this page](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=33)
+- [On Twitter](https://twitter.com/schmonz) (DM or public, as you prefer)
+- [By email](mailto:schmonz@agilein3minut.es)
+
+Would this show be useful to others? **Help them discover it** by
+adding your review:
+
+- [On iTunes](https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2)
+- [On Stitcher](http://www.stitcher.com/s?fid=74689&refid=stpr)
+
+Would it be useful to ruminate on the ideas at your own pace?
+**There's a book** you can buy:
+
+- [On Leanpub](https://leanpub.com/agilein3minutes)
+
+Would you like to encourage me to keep at it? You can **fund me,
+one episode at a time**, in any amount you like:
+
+- [On Patreon](https://www.patreon.com/schmonz)
+"""
+]]
