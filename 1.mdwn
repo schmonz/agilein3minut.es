@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Effect"
+season=1
 date="2015-04-29 10:48:35"
 tags="manifesto feedback"
 question="Why Agile, and why 3 minutes?"

@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Mob"
+season=2
 date="2015-12-01 07:00:00"
 tags="mob prediction pairing care discipline value review merge risk wrong waste continuous-integration cost team mobbing decision choice impediment swarming learn commit integrate code work-in-progress speed retrospective feedback individuals-and-interactions influence knowledge pace rollback safety trust working-software"
 question="How can your team become more capable and predictable?"

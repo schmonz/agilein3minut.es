@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Care"
+season=1
 date="2015-06-16 07:00:00"
 tags="fear pain risk wrong care love knowledge feedback"
 question="How can others tell what matters to you?"

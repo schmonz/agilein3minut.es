@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Dig"
+season=1
 date="2015-07-21 07:00:00"
 tags="fun delight needs perfection comfort wrong dig feedback joy"
 question="How often is your job fun to do?"

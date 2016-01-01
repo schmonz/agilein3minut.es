@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Free"
+season=1
 date="2015-07-14 07:00:00"
 tags="freedom force risk consequence cost choice intuition feedback"
 question="When you can do whatever you want, what should you want?"

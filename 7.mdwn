@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Fear"
+season=1
 date="2015-06-09 07:00:00"
 tags="fear risk knowledge feedback"
 question="What's there to be afraid of?"

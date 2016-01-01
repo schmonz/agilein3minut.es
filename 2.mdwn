@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Retrospect"
+season=1
 date="2015-04-29 10:48:36"
 tags="practice retrospective feedback"
 question="Could you do Agile on a desert island?"

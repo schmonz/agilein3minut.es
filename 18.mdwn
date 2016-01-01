@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Estimate"
+season=2
 date="2015-08-25 07:00:00"
 tags="estimate decision heuristic constraint cost risk value confidence prediction experience accuracy precision control choice consequence intuition knowledge maps pace"
 question="How long will it take to get where we need to go?"

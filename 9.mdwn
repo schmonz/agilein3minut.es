@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Pair"
+season=1
 date="2015-06-23 07:00:00"
 tags="practice pairing intuition trust wrong care cost feedback"
 question="If working in pairs means getting half as much done, why is anyone still doing it?"

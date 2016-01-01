@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Intuit"
+season=1
 date="2015-05-12 07:00:00"
 tags="intuition feedback"
 question="When developing software, how many decisions do we make every day?"

@@ -1,5 +1,6 @@
 [[!template id="episode"
 title="Try"
+season=1
 date="2015-06-30 07:00:00"
 tags="intuition trust risk wrong feedback"
 question="What if every action we took were an experiment?"
