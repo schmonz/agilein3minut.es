@@ -1,7 +1,3 @@
-[[!pagestats
-pages="tag/* and !tag/episode"
-]]
-
 [[!inline
 title="Agile in 3 Minutes"
 description="The simplest podcast that could possibly work."
@@ -13,4 +9,8 @@ trail=yes
 
 [[!trailoptions
 reverse=yes
+]]
+
+[[!pagestats
+pages="tag/* and !tag/episode"
 ]]
