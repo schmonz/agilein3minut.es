@@ -1,8 +1,6 @@
-<!--
 [[!pagestats
 pages="tag/* and !tag/episode"
 ]]
--->
 
 # The Show
 
@@ -50,4 +48,4 @@ link="http://www.schmonz.com"
 ]]
 
 [Software development coach](http://www.schmonz.com/coach/). Legacy
-code wrestler.  Non-award-winning musician. Award-winning bad poet.
+code wrestler. Non-award-winning musician. Award-winning bad poet.
