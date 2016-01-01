@@ -1,7 +1,3 @@
-[[!pagestats
-pages="tag/* and !tag/episode"
-]]
-
 # The Show
 
 - [[About]]
