@@ -1,4 +1,0 @@
-[[!meta title="pages tagged season-<TMPL VAR"]]
-
-[[!inline pages="tagged(season-__60__TMPL_VAR)" actions="no" archive="yes"
-feedshow=10]]
