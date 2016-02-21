@@ -22,7 +22,7 @@
 | <a href="http://www.stitcher.com/s?fid=74689&refid=stpr">Stitcher</a>
 | <a class="feedbutton" href="/archive/index.rss">RSS</a>
 | <a href="/ai3m<TMPL_VAR NAME=page>.mp3">Download</a>
-| <a href="mailto:episode-announce-subscribe@agilein3minut.es">Subscribe by email</a>
+| <a href="mailto:announce-subscribe@schmonz.com">Subscribe by email</a>
 </p>
 </div>
 
