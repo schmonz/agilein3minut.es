@@ -33,7 +33,7 @@ title="Leanpub"
 link="https://leanpub.com/agilein3minutes"
 ]]
 
-# Your Host, Amitai
+# About Your Host, Amitai
 
 [[!img
 images/muscatatuck_face.jpg
@@ -42,6 +42,3 @@ alt="headshot"
 title="headshot"
 link="http://www.schmonz.com"
 ]]
-
-[Software development coach](http://www.schmonz.com/coach/). Legacy
-code wrestler. Non-award-winning musician. Award-winning bad poet.
