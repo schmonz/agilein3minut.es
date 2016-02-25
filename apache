@@ -1,0 +1,28 @@
+<VirtualHost *:80>
+	ServerName agilein3minut.es
+	ServerAdmin webmaster@agilein3minut.es
+	DocumentRoot /home/schmonz/sites/agilein3minut.es/www/html
+	CustomLog /home/schmonz/sites/agilein3minut.es/www/logs/access combined
+	ErrorLog /home/schmonz/sites/agilein3minut.es/www/logs/errors
+	ScriptAlias /cgi/ /home/schmonz/sites/agilein3minut.es/www/cgi/
+	SuexecUserGroup schmonz users
+
+	<Location />
+		Require all granted
+	</Location>
+
+	Redirect permanent /index.rss https://agilein3minut.es/archive/index.rss
+	Redirect permanent / https://agilein3minut.es/
+</VirtualHost>
+
+<VirtualHost *:80>
+	ServerName ai3m.co
+	ServerAlias *.ai3m.co
+	ServerAlias *.agilein3minut.es
+	ServerAlias agileinthreeminutes.com
+	ServerAlias *.agileinthreeminutes.com
+	ServerAlias agilein3minutes.com
+	ServerAlias *.agilein3minutes.com
+
+	Redirect / http://agilein3minut.es/
+</VirtualHost>
