@@ -2,7 +2,8 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:dcterms="http://purl.org/dc/terms/" >
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title><TMPL_VAR TITLE></title>
 <itunes:subtitle><TMPL_VAR FEEDDESC ESCAPE=HTML></itunes:subtitle>
@@ -18,6 +19,7 @@
 <itunes:category text="Software How-To" />
 </itunes:category>
 <link><TMPL_VAR PAGEURL></link>
+<atom:link href="<TMPL_VAR FEEDURL>" rel="self" type="application/rss+xml"/>
 <TMPL_IF COPYRIGHT>
 <copyright><TMPL_VAR COPYRIGHT ESCAPE=HTML></copyright>
 </TMPL_IF>
