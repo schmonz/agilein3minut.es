@@ -9,7 +9,7 @@ EPISODE_SUMMARY="What do you need from this program?"
 INPUT_AIFF_FILE="ai3m${EPISODE_NUMBER}.aiff"
  
 SHOW_ALBUM="Agile in 3 Minutes"
-SHOW_AUTHOR="Amitai Schlair"
+SHOW_AUTHOR="Amitai Schleier"
  
 # Artwork: ideally 1400x1400, but less than 128 KB to maximize compatibility
 ARTWORK_JPG_FILENAME="$HOME/Documents/trees/agilein3minut.es/src/images/ai3m.png"

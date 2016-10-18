@@ -5,7 +5,7 @@
 [[!meta name="twitter:player" content="https://agilein3minut.es/twittercard/<TMPL_VAR NAME=page>/"]]
 [[!meta name="twitter:player:width" content="480"]]
 [[!meta name="twitter:player:height" content="20"]]
-[[!meta author="Amitai Schlair"]]
+[[!meta author="Amitai Schleier"]]
 [[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
