@@ -40,5 +40,5 @@ images/santa_ponsa_face.jpg
 size=100x100
 alt="headshot"
 title="headshot"
-link="http://www.schmonz.com"
+link="https://schmonz.com"
 ]]
