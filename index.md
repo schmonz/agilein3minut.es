@@ -1,11 +1,5 @@
-# The simplest podcast that could possibly work.
-
-People are saying: _"Poetic gems. Insightful, concise and elegant."_ [[More...|about]]
-
-[[!inline
-pages="page(*) and tagged(episode) and !templates/episode"
-show=1
-actions=yes
-rss=no
-archive=no
-]]
+[[!table class="front" header="column" delimiter="," data="""
+Listen&nbsp;&nbsp;,<strong>[[!inline raw=yes pages="front/listen"]]</strong>
+Discuss&nbsp;&nbsp;,[[!inline raw=yes pages="front/discuss"]]
+Subscribe&nbsp;&nbsp;,[[!inline raw=yes pages="front/subscribe"]]
+"""]]
