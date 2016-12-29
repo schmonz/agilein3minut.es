@@ -131,6 +131,14 @@
 
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
+<TMPL_UNLESS DYNAMIC>
+<TMPL_IF SIDEBAR>
+<TMPL_IF HTML5><aside class="sidebar"><TMPL_ELSE><div class="sidebar"></TMPL_IF>
+<TMPL_VAR SIDEBAR>
+<TMPL_IF HTML5></aside><TMPL_ELSE></div></TMPL_IF>
+</TMPL_IF>
+</TMPL_UNLESS>
+
 <div id="pagebody">
 
 <TMPL_IF HTML5><section<TMPL_ELSE><div</TMPL_IF> id="content" role="main">
@@ -218,14 +226,6 @@ License: <TMPL_VAR LICENSE>
 Last edited <TMPL_VAR MTIME>
 <!-- Created <TMPL_VAR CTIME> -->
 </div>
-
-<TMPL_UNLESS DYNAMIC>
-<TMPL_IF SIDEBAR>
-<TMPL_IF HTML5><aside class="sidebar"><TMPL_ELSE><div class="sidebar"></TMPL_IF>
-<TMPL_VAR SIDEBAR>
-<TMPL_IF HTML5></aside><TMPL_ELSE></div></TMPL_IF>
-</TMPL_IF>
-</TMPL_UNLESS>
 
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 <TMPL_IF EXTRAFOOTER><TMPL_VAR EXTRAFOOTER></TMPL_IF>

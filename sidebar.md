@@ -1,6 +1,44 @@
-<!-- **[[Season 3|tag/season-3]] (34-)** | -->
-[[Season 2|tag/season-2]] (18-33) | [[Season 1|tag/season-1]] (1-17)
+# The Show
 
-[[About]] | [[Comments]] | [[Remix]] | [[Suggest|backlog]] | [[Support]]
+- [[About]]
+- [[All Episodes|archive]]
+- [[All Comments|comments]]
+- [[Backlog]]
 
-[The Book](https://leanpub.com/agilein3minutes)
+[[!img
+images/itunes.png
+alt="iTunes"
+title="iTunes"
+link="https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2"
+]]
+
+[[!img
+images/stitcher.png
+alt="Stitcher"
+title="Stitcher"
+link="http://www.stitcher.com/s?fid=74689&refid=stpr"
+]]
+
+[[!img
+images/patreon.png
+alt="Patreon"
+title="Patreon"
+link="https://www.patreon.com/schmonz"
+]]
+
+[[!img
+images/leanpub.png
+alt="Leanpub"
+title="Leanpub"
+link="https://leanpub.com/agilein3minutes"
+]]
+
+# About Your Host, Amitai
+
+[[!img
+images/santa_ponsa_face.jpg
+size=100x100
+alt="headshot"
+title="headshot"
+link="https://schmonz.com"
+]]

@@ -11,13 +11,20 @@
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode season-<TMPL_VAR NAME="season"> <TMPL_VAR NAME="tags">]]
 
-[[!table class="front" header="column" delimiter="," data="""
-[[!img images/ai3m.png size="64x64" link="index"]],[[!inline raw=yes pages="front/title"]]
-# <TMPL_VAR NAME="question">,
-Listen&nbsp;&nbsp;,<div id="inlineaudio"><audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls"></audio></div>
-Discuss&nbsp;&nbsp;,[[!inline raw=yes pages="front/discuss"]]
-Subscribe&nbsp;&nbsp;,[[!inline raw=yes pages="front/subscribe"]]
-"""]]
+# <TMPL_VAR NAME="question">
+
+<div id="inlineaudio">
+<audio src="/ai3m<TMPL_VAR NAME=page>.mp3" preload="metadata" controls="controls"></audio>
+</div>
+<div id="inlineenclosure">
+<p>
+<a href="https://geo.itunes.apple.com/us/podcast/agile-in-3-minutes/id1043107219?mt=2">iTunes</a>
+| <a href="http://www.stitcher.com/s?fid=74689&refid=stpr">Stitcher</a>
+| <a class="feedbutton" href="/archive/index.rss">RSS</a>
+| <a href="/ai3m<TMPL_VAR NAME=page>.mp3">Download</a>
+| <a href="mailto:announce-subscribe@schmonz.com">Subscribe by email</a>
+</p>
+</div>
 
 # Learn More
 
@@ -27,3 +34,7 @@ Subscribe&nbsp;&nbsp;,[[!inline raw=yes pages="front/subscribe"]]
 
 - [Comment on this episode](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
 - [[Support the show|support]]
+
+# Share and Remix
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/images/creative_commons_4.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Agile in 3 Minutes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://agilein3minut.es" property="cc:attributionName" rel="cc:attributionURL">Amitai Schleier</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

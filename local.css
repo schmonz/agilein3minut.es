@@ -1,9 +1,25 @@
-.pageheader {
+.pageheader .actions {
 	display: none;
+}
+
+.pageheader .trails {
+	display: none;
+}
+
+.pagecloud {
+	margin: 0 0 24px;
+}
+
+.sidebar {
+	width: 30ex;
 }
 
 .inlineaudio {
 	margin-top: .4em;
+}
+
+#inlineenclosure {
+	margin-bottom: 1em;
 }
 
 #audio {
@@ -18,6 +34,10 @@
 	display: none;
 }
 
+.tags {
+	display: none !important;
+}
+
 span.header {
 	margin-top: 0.5em;
 }
@@ -26,21 +46,6 @@ span.header {
 	display: none;
 }
 
-table.front tbody tr th {
-	text-align: right;
-}
-table.front tbody tr td p {
-	margin: 0;
-	padding: 0;
-}
-
-.sidebar {
-	width: 100%;
-	border: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	padding: 0 0 0 0;
-	margin: 0 0 0 0;
-	text-align: center;
+.archivepagedate {
+	display: none;
 }

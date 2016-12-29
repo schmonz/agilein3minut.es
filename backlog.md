@@ -1,7 +1,3 @@
-[[!table class="front" header="column" delimiter="," data="""
-[[!img images/ai3m.png size="64x64" link="index"]],[[!inline raw=yes pages="front/title"]]
-"""]]
-
 [[!meta title="Product Backlog"]]
 
 ## _Ceci n'est pas un épisode_
