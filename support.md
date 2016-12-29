@@ -1,3 +1,7 @@
+[[!table class="front" header="column" delimiter="," data="""
+[[!img images/ai3m.png size="64x64" link="index"]],[[!inline raw=yes pages="front/title"]]
+"""]]
+
 [[!meta title="Support the Show"]]
 
 Does _Agile in 3 Minutes_ help you in your work?
