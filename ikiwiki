@@ -65,6 +65,7 @@ add_plugins:
 - toggle
 - trail
 - typography
+- version
 # plugins to disable
 disable_plugins:
 - editpage
