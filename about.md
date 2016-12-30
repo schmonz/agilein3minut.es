@@ -1,7 +1,14 @@
 [[!meta title="About the Show"]]
 
-_Agile in 3 Minutes_ is a micropodcast about thinking and doing
-business effectively.
+[[!img
+images/santa_ponsa_face.jpg
+size=100x100
+align="right"
+link=no
+]]
+
+_Agile in 3 Minutes_ is [Amitai Schleier](https://schmonz.com)'s
+micropodcast about thinking and doing business effectively.
 
 I don't offer a precise definition of "Agile," because I don't
 believe we need to judge whether we are or are not. What we need
