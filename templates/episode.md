@@ -11,6 +11,8 @@
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode season-<TMPL_VAR NAME="season"> <TMPL_VAR NAME="tags">]]
 
+<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title> (part of [[Season <TMPL_VAR NAME="season">|tag/season-<TMPL_VAR NAME="season">]])
+
 _<TMPL_IF AUTHOR>Special guest <TMPL_VAR NAME=author><TMPL_ELSE>Amitai</TMPL_IF> asks..._
 
 # <TMPL_VAR NAME="question">
@@ -21,10 +23,10 @@ _<TMPL_IF AUTHOR>Special guest <TMPL_VAR NAME=author><TMPL_ELSE>Amitai</TMPL_IF>
 
 <TMPL_VAR NAME="learnmore">
 
-# Give Feedback
+# Discuss
 
-- Discuss "<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>" on [[!inline raw=yes pages="front/discuss"]] | [agilein3minut.es](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
+[[!inline raw=yes pages="front/discuss"]] | [agilein3minut.es](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
 
 # Subscribe
 
-- [[!inline raw=yes pages="front/subscribe"]]
+[[!inline raw=yes pages="front/subscribe"]]

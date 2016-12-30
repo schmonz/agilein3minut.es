@@ -46,3 +46,9 @@ at it. As you prefer:
 - [Pay with Patreon](https://www.patreon.com/schmonz)
 - [Pay with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
 - [Pay with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YTLM2XYYTNMYS)
+
+## Caffeinate
+
+You can help my body remain in motion:
+
+- [☕  Buy me a fancy coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2657VBKRKHGY2)

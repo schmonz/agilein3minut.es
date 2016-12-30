@@ -18,6 +18,7 @@ to make sure your idea's got my attention, mention it here.
 
 ## Possible future episodes
 
+7. [Productivity and open-plan workspaces](https://twitter.com/cory_foy/status/814853264936235012) (via [Ruth](https://twitter.com/ruthmalan/status/814853988248092678))
 7. [Where to start with Agile](https://twitter.com/CinderellaManJJ/status/710150242054893568) (and also Chris's comment below), and dealing with change, and not falling into a rut
 7. [Provide some brainstorming ideas for team improvement](https://twitter.com/wwake/status/628615662840246273)
 7. Roles (and wearing them loosely)
