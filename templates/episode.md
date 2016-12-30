@@ -24,3 +24,7 @@ _<TMPL_IF AUTHOR>Special guest <TMPL_VAR NAME=author><TMPL_ELSE>Amitai</TMPL_IF>
 # Give Feedback
 
 - Discuss "<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>" on [[!inline raw=yes pages="front/discuss"]] | [agilein3minut.es](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR NAME="page">)
+
+# Subscribe
+
+- [[!inline raw=yes pages="front/subscribe"]]
