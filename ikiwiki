@@ -58,6 +58,7 @@ add_plugins:
 - rawhtml
 - shortcut
 - sidebar
+- table
 - tag
 - template
 - theme
