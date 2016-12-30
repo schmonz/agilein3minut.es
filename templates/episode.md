@@ -5,11 +5,13 @@
 [[!meta name="twitter:player" content="https://agilein3minut.es/twittercard/<TMPL_VAR NAME=page>/"]]
 [[!meta name="twitter:player:width" content="480"]]
 [[!meta name="twitter:player:height" content="20"]]
-[[!meta author="Amitai Schleier"]]
+[[!meta author="<TMPL_IF AUTHOR><TMPL_VAR NAME=author><TMPL_ELSE>Amitai Schleier</TMPL_IF>"]]
 [[!meta title="<TMPL_VAR NAME=page>: <TMPL_VAR NAME=title>"]]
 [[!meta date="<TMPL_VAR NAME=date>"]]
 [[!meta enclosure="ai3m<TMPL_VAR NAME=page>.mp3"]]
 [[!tag episode season-<TMPL_VAR NAME="season"> <TMPL_VAR NAME="tags">]]
+
+_<TMPL_IF AUTHOR>Special guest <TMPL_VAR NAME=author><TMPL_ELSE>Amitai</TMPL_IF> asks..._
 
 # <TMPL_VAR NAME="question">
 

@@ -9,7 +9,7 @@
 	<link><TMPL_VAR PERMALINK></link>
 <TMPL_IF AUTHOR>
 	<dc:creator><TMPL_VAR AUTHOR ESCAPE=HTML></dc:creator>
-	<itunes:author>Amitai Schleier</itunes:author>
+	<itunes:author><TMPL_VAR AUTHOR ESCAPE=HTML></itunes:author>
 </TMPL_IF>
 <TMPL_IF CATEGORIES>
 <TMPL_LOOP CATEGORIES>
