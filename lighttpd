@@ -1,0 +1,12 @@
+var.siteroot		= "/home/schmonz/sites/agilein3minut.es/www/"
+var.siteport		= 30096
+
+include			"/etc/lighttpd/schmonz_hosted.conf"
+
+server.modules		+= ("mod_alias", "mod_cgi")
+alias.url		+= ("/cgi" => siteroot + "cgi/")
+$HTTP["url"]		=~ "^/cgi/" { cgi.assign = ("" => "") }
+
+
+server.modules		+= ("mod_redirect")
+url.redirect		= ( "^/index.rss" => "/archive/index.rss" )
