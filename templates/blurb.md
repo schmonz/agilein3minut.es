@@ -1,5 +1,9 @@
-[[!meta author="<TMPL_VAR NAME=author>"]]
-[[!meta title="<TMPL_VAR NAME=author>"]]
+[[!templatebody <<ENDBODY
+[[!meta author="<TMPL_VAR author>"]]
+[[!meta title="<TMPL_VAR author>"]]
 
-“<TMPL_VAR NAME="quote">”  
--- [<TMPL_VAR NAME=author>](https://twitter.com/<TMPL_VAR NAME=twitter>)<TMPL_IF EPISODE> (on [[<TMPL_VAR NAME=episode>]])</TMPL_IF>
+“<TMPL_VAR quote>”  
+-- [<TMPL_VAR author>](https://twitter.com/<TMPL_VAR twitter>)<TMPL_IF EPISODE> (on [[<TMPL_VAR episode>]])</TMPL_IF>
+ENDBODY]]
+
+[[!meta redir="index"]]
