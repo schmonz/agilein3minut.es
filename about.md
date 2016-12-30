@@ -18,13 +18,18 @@ is to:
 - Deliver value early and often.
 
 If you agree, and you want your thoughts happily provoked, this
-show is for you. Try [[the newest episode|index]].
+show is for you. Try the newest episode...
+
+[[!inline raw=yes pages="front/listen"]]
+
+...or start from [[the beginning|1]].
 
 ## What People Are Saying
 
 [[!inline
 pages="blurb/*"
-sort="path"
+limit=0
+sort="title_natural"
 raw=yes
 ]]
 
@@ -36,7 +41,7 @@ raw=yes
 7. Write, edit, and record every episode with such care that it
    might wind up being your favorite.
 
-7. Release a new episode every week, until I've covered every topic
+7. Release new episodes regularly, until we've covered every topic
    you could possibly want to hear about.
 
-7. Experiment freely within these constraints.
+7. Within these constraints, experiment freely.
