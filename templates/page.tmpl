@@ -60,7 +60,11 @@
 <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
 </TMPL_LOOP>
 </span>
+<a href="/"><img src="/images/ai3m.png" width="64" height="64" class="titleimg" /></a>
 <span class="title">
+<div class="subtitle">
+The simplest podcast that could possibly work.
+</div>
 <TMPL_VAR TITLE>
 <TMPL_IF ISTRANSLATION>
 &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
@@ -132,16 +136,6 @@
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
 <div id="pagebody">
-
-<table>
-<tr>
-<th><a href="/"><img src="/images/ai3m.png" width="64" height="64" class="img" /></a></th>
-<td>
-<h1>Agile in 3 Minutes</h1>
-<h3>The simplest podcast that could possibly work.</h3>
-</td>
-</tr>
-</table>
 
 <TMPL_IF HTML5><section<TMPL_ELSE><div</TMPL_IF> id="content" role="main">
 <TMPL_VAR CONTENT>

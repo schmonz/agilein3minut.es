@@ -12,8 +12,6 @@
 [[!meta enclosure="ai3m<TMPL_VAR page>.mp3"]]
 [[!tag episode season-<TMPL_VAR season> <TMPL_VAR tags>]]
 
-<TMPL_VAR page>: <TMPL_VAR title> (part of [[Season <TMPL_VAR season>|tag/season-<TMPL_VAR season>]])
-
 _<TMPL_IF AUTHOR>Special guest <TMPL_VAR author><TMPL_ELSE>Amitai</TMPL_IF> asks..._
 
 # <TMPL_VAR question>

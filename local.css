@@ -1,4 +1,17 @@
-.pageheader {
+.pageheader .header .title {
+	font-size: 120%;
+}
+
+.pageheader .header .title .subtitle {
+	font-size: small;
+	font-style: italic;
+}
+
+.pageheader .actions {
+	display: none;
+}
+
+.pageheader .trails {
 	display: none;
 }
 
@@ -45,6 +58,12 @@ table.front tbody tr td p {
 	text-align: center;
 }
 
-table.iconic {
-	display: none;
+table.front {
+	margin: 0 auto;
+}
+
+img.titleimg {
+	display: block;
+	float: left;
+	margin: .4em .4em 0 0;
 }
