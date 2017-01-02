@@ -24,9 +24,9 @@ cat <<EOF
 Manually process audio with Audacity. Export AIFF.
 Pass episode number and question to LAME encoder.
 Delete AIFF leftovers.
-Create "number.mdwn" and "twittercard/number/index.html"
-Manually set tags and learn-more links on "number.mdwn"
-"git add ai3mnumber.mp3 number.mdwn twittercard/number/index.html"
+Create "number.md" and "twittercard/number.md"
+Manually set tags and learn-more links on "number.md"
+"git add ai3mnumber.mp3 number.md twittercard/number.md"
 "git commit -m 'Add episode number'"
 "git push"
 Manually create Patreon post.
