@@ -150,7 +150,7 @@ responsive_layout: 1
 git_wrapper: /home/schmonz/sites/agilein3minut.es/www/git/src.git/hooks/post-update
 # shell command for git_wrapper to run, in the background
 #git_wrapper_background_command: git push github
-git_wrapper_background_command: git push github
+git_wrapper_background_command: git push git@github.com:schmonz/agilein3minut.es.git master
 # mode for git_wrapper (can safely be made suid)
 git_wrappermode: 00755
 # git pre-receive hook to generate
