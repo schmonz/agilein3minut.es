@@ -47,8 +47,15 @@ at it. As you prefer:
 - [Pay with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
 - [Pay with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YTLM2XYYTNMYS)
 
+## Affiliate
+
+When you buy stuff at
+[Amazon](https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=schmonz-20&linkId=35b4a5d403184e21bbc87ba7a912e567),
+use this link to get there. 
+No cost to you, and I'll get a small cut.
+
 ## Caffeinate
 
-You can help my body remain in motion:
+Help my mind and body remain in motion:
 
 - [☕  Buy me a fancy coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2657VBKRKHGY2)
