@@ -1,4 +1,4 @@
-[[!meta title="Product Backlog"]]
+[[!meta title="Backlog for the Show"]]
 
 ## _Ceci n'est pas un épisode_
 

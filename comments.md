@@ -1,3 +1,5 @@
+[[!meta title="Comments on the Show"]]
+
 [[!inline
 description="Comments pending moderation"
 pages="comment_pending(*)"
