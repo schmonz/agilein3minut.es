@@ -135,9 +135,11 @@ allow_symlinks_before_srcdir: 0
 cookiejar:
   file: /home/schmonz/.ikiwiki/cookies
 # set custom user agent string for outbound HTTP requests e.g. when fetching aggregated RSS feeds
-useragent: ikiwiki/3.20150329
+useragent: ikiwiki/3.20161219
 # theme has a responsive layout? (mobile-optimized)
 responsive_layout: 1
+# try harder to produce deterministic output
+deterministic: 0
 
 ######################################################################
 # core plugins
@@ -149,8 +151,8 @@ responsive_layout: 1
 # git hook to generate
 git_wrapper: /home/schmonz/sites/agilein3minut.es/www/git/src.git/hooks/post-update
 # shell command for git_wrapper to run, in the background
-#git_wrapper_background_command: git push github
-git_wrapper_background_command: git push git@github.com:schmonz/agilein3minut.es.git master
+git_wrapper_background_command: git push git@github.com:schmonz/agilein3minut.es.git
+  master
 # mode for git_wrapper (can safely be made suid)
 git_wrappermode: 00755
 # git pre-receive hook to generate
@@ -168,7 +170,6 @@ gitmaster_branch: master
 
 # htmlscrubber plugin
 # PageSpec specifying pages not to scrub
-#htmlscrubber_skip: '!*/Discussion'
 htmlscrubber_skip: '!comment(*)'
 
 # inline plugin
@@ -185,7 +186,7 @@ pingurl: []
 
 ######################################################################
 # auth plugins
-#   (anonok, blogspam, httpauth, lockedit, moderatedcomments,
+#   (anonok, blogspam, emailauth, httpauth, lockedit, moderatedcomments,
 #    opendiscussion, openid, passwordauth, signinedit)
 ######################################################################
 
@@ -200,6 +201,10 @@ blogspam_pagespec: postcomment(*)
 #blogspam_options: blacklist=1.2.3.4,blacklist=8.7.6.5,max-links=10
 # blogspam server JSON url
 #blogspam_server: ''
+
+# emailauth plugin
+# email address to send emailauth mails as (default: adminemail)
+#emailauth_sender: ''
 
 # httpauth plugin
 # url to redirect to when authentication is needed
@@ -370,6 +375,10 @@ theme: actiontabs
 # if set, when building calendar pages, also build pages of year and month when no pages were published (building empty calendars).
 #calendar_fill_gaps: 1
 
+# img plugin
+# Image formats to process (jpeg, png, gif, svg, pdf or 'everything' to accept all)
+#img_allowed_formats: ''
+
 # listdirectives plugin
 # directory in srcdir that contains directive descriptions
 #directive_description_dir: ikiwiki/directive
@@ -378,29 +387,22 @@ theme: actiontabs
 # Should teximg use dvipng to render, or dvips and convert?
 #teximg_dvipng: ''
 # LaTeX prefix for teximg plugin
-#teximg_prefix: '\documentclass{article}
-#
+#teximg_prefix: |
+#  \documentclass{article}
 #  \usepackage[utf8]{inputenc}
-#
 #  \usepackage{amsmath}
-#
 #  \usepackage{amsfonts}
-#
 #  \usepackage{amssymb}
-#
 #  \pagestyle{empty}
-#
 #  \begin{document}
-#
-#'
 # LaTeX postfix for teximg plugin
 #teximg_postfix: \end{document}
 
 ######################################################################
 # other plugins
 #   (aggregate, autoindex, brokenlinks, camelcase, ddate, embed, favicon,
-#    filecheck, flattr, goodstuff, htmlbalance, localstyle, notifyemail,
-#    pagetemplate, pingee, pinger, prettydate, recentchanges,
+#    filecheck, flattr, goodstuff, htmlbalance, localstyle, loginselector,
+#    notifyemail, pagetemplate, pingee, pinger, prettydate, recentchanges,
 #    recentchangesdiff, relativedate, rsync, sidebar, smiley,
 #    sortnaturally, tag, testpagespec, trail, transient, typography)
 ######################################################################
