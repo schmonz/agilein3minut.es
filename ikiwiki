@@ -54,8 +54,8 @@ add_plugins:
 - notifyemail
 - pagecount
 - pagestats
+- pagetemplate
 - passwordauth
-- rawhtml
 - shortcut
 - sidebar
 - sortnaturally
