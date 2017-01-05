@@ -76,9 +76,9 @@ disable_plugins:
 - search
 - signinedit
 # additional directory to search for template files
-templatedir: /usr/pkg/share/ikiwiki/templates
+templatedir: /opt/pkg/share/ikiwiki/templates
 # base wiki source location
-underlaydir: /usr/pkg/share/ikiwiki/basewiki
+underlaydir: /opt/pkg/share/ikiwiki/basewiki
 # display verbose messages?
 #verbose: 1
 # log to syslog?
@@ -340,7 +340,7 @@ comments_allowformats: ''
 
 # search plugin
 # path to the omega cgi program
-omega_cgi: /usr/pkg/libexec/cgi-bin/xapian-omega
+omega_cgi: /opt/pkg/libexec/cgi-bin/xapian-omega
 # use google site search rather than internal xapian index?
 #google_search: 1
 
