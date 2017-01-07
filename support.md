@@ -58,4 +58,4 @@ No cost to you, and I'll get a small cut.
 
 Help my mind and body remain in motion:
 
-- [☕  Buy me a fancy coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2657VBKRKHGY2)
+- [☕  Buy me a fancy coffee](https://schmonz.com/coffee/)
