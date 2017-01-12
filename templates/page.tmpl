@@ -54,23 +54,24 @@
 
 <TMPL_IF HTML5><section class="pageheader"><TMPL_ELSE><div class="pageheader"></TMPL_IF>
 <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
-<span>
+<a href="/"><img src="/images/ai3m.png" class="titleimg" /></a>
+<div class="headertext">
 <span class="parentlinks">
 <TMPL_LOOP PARENTLINKS>
 <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
 </TMPL_LOOP>
 </span>
-<a href="/"><img src="/images/ai3m.png" width="64" height="64" class="titleimg" /></a>
-<span class="title">
 <div class="subtitle">
-The simplest podcast that could possibly work.
+<span class="sub1">The simplest podcast&nbsp;</span>
+<span class="sub2">that could possibly work.</span>
 </div>
+<span class="title">
 <TMPL_VAR TITLE>
 <TMPL_IF ISTRANSLATION>
 &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
 </TMPL_IF>
 </span>
-</span>
+</div>
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF SEARCHFORM>
 <TMPL_VAR SEARCHFORM>
