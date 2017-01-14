@@ -25,5 +25,8 @@ What we need is to:
 If you agree, and you want your thoughts happily provoked, this show is
 for you.
 Welcome!
-Start from [[the beginning|1]],
-then continue in any order you like.
+
+Start with episode
+[[1: Effect|1]]
+-- it explains what I'm trying to do here -- then continue in any
+order whatsoever.
