@@ -9,6 +9,7 @@ images/santa_ponsa_face.jpg
 align=right
 size=100x100
 link="https://schmonz.com"
+caption="Hi. I'm Amitai."
 ]]
 
 A micropodcast about thinking and doing business effectively.
@@ -26,5 +27,3 @@ for you.
 Welcome!
 Start from [[the beginning|1]],
 then continue in any order you like.
-
--- [Amitai](https://schmonz.com)
