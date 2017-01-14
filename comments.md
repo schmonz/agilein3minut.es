@@ -1,6 +1,13 @@
 [[!meta title="Comments on the Show"]]
 
 [[!inline
+pages="blurb/*"
+limit=0
+sort="title_natural"
+raw=yes
+]]
+
+[[!inline
 description="Comments pending moderation"
 pages="comment_pending(*)"
 show=-1
