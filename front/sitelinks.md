@@ -1,1 +1,1 @@
-[[Backlog]] | [[Comments]] | [[Goals]] | [[Remix]] | [[Support]]
+[[Backlog]] | [[Comments]] | [[Remix]] | [[Support]]

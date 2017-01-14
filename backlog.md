@@ -16,6 +16,19 @@ to feel, so this backlog won't always tell you what to expect. But
 it'll give you an idea of what I'm thinking about. And if you want
 to make sure your idea's got my attention, mention it here.
 
+## My goals
+
+7. Demonstrate my respect for your time, attention, intelligence,
+   and humanity.
+
+7. Write, edit, and record every episode with such care that it
+   might wind up being your favorite.
+
+7. Release new episodes regularly, until we've covered every topic
+   you could possibly want to hear about.
+
+7. Within these constraints, experiment freely.
+
 ## Possible future episodes
 
 7. [Productivity and open-plan workspaces](https://twitter.com/cory_foy/status/814853264936235012) (via [Ruth](https://twitter.com/ruthmalan/status/814853988248092678))
