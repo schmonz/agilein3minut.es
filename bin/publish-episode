@@ -1,9 +1,9 @@
 #!/bin/sh
 
-EPISODE_NUMBER=33
-EPISODE_TITLE="Confirm"
-EPISODE_SUMMARY="What do you need from this program?"
-EPISODE_AUTHOR="Amitai Schleier"
+EPISODE_NUMBER=34
+EPISODE_TITLE="Manage"
+EPISODE_SUMMARY="What do agile managers do?"
+EPISODE_AUTHOR="Johanna Rothman"
 
 #####
 
