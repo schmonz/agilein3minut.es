@@ -26,6 +26,6 @@ If you agree, and you want your thoughts happily provoked, this show is
 for you.
 Welcome!
 
-Start with episode
-[[1: Effect|1]] for an overview,
-then continue in any order you like.
+For an overview, start with episode
+[[1: Effect|1]].
+Then continue in any order you like.
