@@ -11,3 +11,9 @@ you'll need
 [[!iki desc="ikiwiki"]].
 I'm using version
 [[!version]].
+
+## Known Remixes
+
+- [Markus Harrer](http://twitter.com/feststelltaste)'s
+  [German translations](https://www.feststelltaste.de/category/agile/agilin3minuten/)
+  (also on [GitHub](https://github.com/feststelltaste/agile3min))
