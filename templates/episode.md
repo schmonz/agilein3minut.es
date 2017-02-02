@@ -13,9 +13,7 @@
 [[!meta enclosure="ai3m<TMPL_VAR page>.mp3"]]
 [[!tag episode season-<TMPL_VAR season> <TMPL_VAR tags>]]
 
-_<TMPL_IF AUTHOR>Special guest [<TMPL_VAR author>](<TMPL_VAR authorurl>)<TMPL_ELSE>[Amitai](<TMPL_VAR authorurl>)</TMPL_IF> asks..._
-
-# <TMPL_VAR question>
+# _<TMPL_IF AUTHOR>Special guest [<TMPL_VAR author>](<TMPL_VAR authorurl>)<TMPL_ELSE>[Amitai](<TMPL_VAR authorurl>)</TMPL_IF> asks:_ <TMPL_VAR question>
 
 <div id="inlineaudio"><audio src="/ai3m<TMPL_VAR page>.mp3" preload="metadata" controls="controls"></audio></div>
 
