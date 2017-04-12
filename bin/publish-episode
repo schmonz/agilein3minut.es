@@ -1,9 +1,9 @@
 #!/bin/sh
 
-EPISODE_NUMBER=34
-EPISODE_TITLE="Manage"
-EPISODE_SUMMARY="What do agile managers do?"
-EPISODE_AUTHOR="Johanna Rothman"
+EPISODE_NUMBER=35
+EPISODE_TITLE="Define"
+EPISODE_SUMMARY="Are you technical or non-technical?"
+EPISODE_AUTHOR="Andrea Goulet"
 
 #####
 
