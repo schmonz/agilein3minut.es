@@ -99,7 +99,7 @@ html5: 0
 # only send cookies over SSL connections?
 sslcookie: 0
 # extension to use for new pages
-default_pageext: mdwn
+default_pageext: md
 # extension to use for html files
 htmlext: html
 # strftime format string to display date
