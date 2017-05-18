@@ -23,6 +23,7 @@ banned_users:
 - ip(183.138.161.123)
 - ip(183.138.185.62)
 - ip(188.143.232.21)
+- ip(204.86.20.120)
 # where the source of the wiki is located
 srcdir: /home/schmonz/sites/agilein3minut.es/www/src
 # where to build the wiki
