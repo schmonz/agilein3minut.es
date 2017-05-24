@@ -3,10 +3,15 @@ var.siteport		= 30096
 
 include			"/etc/lighttpd/schmonz_hosted.conf"
 
+server.modules		+= ("mod_setenv")
+setenv.add-response-header = (
+	"Strict-Transport-Security" => "max-age=300",
+	# max-age=63072000; includeSubDomains; preload"
+)
+
 server.modules		+= ("mod_alias", "mod_cgi")
 alias.url		+= ("/cgi" => siteroot + "cgi/")
 $HTTP["url"]		=~ "^/cgi/" { cgi.assign = ("" => "") }
-
 
 server.modules		+= ("mod_redirect")
 url.redirect		= ( "^/index.rss" => "/archive/index.rss" )
