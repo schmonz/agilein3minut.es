@@ -1,9 +1,10 @@
 #!/bin/sh
 
-EPISODE_NUMBER=35
-EPISODE_TITLE="Define"
-EPISODE_SUMMARY="Are you technical or non-technical?"
-EPISODE_AUTHOR="Andrea Goulet"
+EPISODE_NUMBER=36
+EPISODE_TITLE="Do"
+EPISODE_SUMMARY='When the word "Agile" implies action, why is there still so much talk?'
+EPISODE_AUTHOR="Lanette Creamer"
+
 
 #####
 
