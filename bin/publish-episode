@@ -1,9 +1,9 @@
 #!/bin/sh
 
-EPISODE_NUMBER=36
-EPISODE_TITLE="Do"
-EPISODE_SUMMARY='When the word "Agile" implies action, why is there still so much talk?'
-EPISODE_AUTHOR="Lanette Creamer"
+EPISODE_NUMBER=37
+EPISODE_TITLE="Listen"
+EPISODE_SUMMARY="What do your favorite conversations feel like?"
+EPISODE_AUTHOR="Alex Harms"
 
 
 #####
