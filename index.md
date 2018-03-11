@@ -8,7 +8,7 @@ Subscribe&nbsp;&nbsp;,[[!inline raw=yes pages="front/subscribe"]]
 images/santa_ponsa_face.jpg
 align=right
 size=100x100
-link="http://latentagility.com"
+link="https://latentagility.com"
 caption="Hi, I'm Amitai."
 ]]
 
