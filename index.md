@@ -12,20 +12,36 @@ link="https://latentagility.com"
 caption="Hi, I'm Amitai."
 ]]
 
+# What is this?
+
 A micropodcast about thinking and doing business effectively.
+
+
+# What isn't this?
 
 I don't offer a precise definition of "Agile," because I don't
 believe we need to judge whether we are or are not.
-What we need is to:
 
-- Make risks visible early,
-- Make informed decisions often, and
-- Deliver value early and often.
 
-If you agree, and you want your thoughts happily provoked, this show is
-for you.
-Welcome!
+# What _do_ we need?
 
-For an overview, start with episode
-[[1: Effect|1]].
-Then continue in any order you like.
+- To make risks visible early,
+- To make informed decisions often, and
+- To deliver value early and often.
+
+
+# Is this show for me?
+
+If you'd like to have your thoughts happily provoked, yes! Welcome.
+
+
+# Where do I start listening?
+
+Anywhere you like.
+(For an overview, I suggest
+[[1: Effect|1]].)
+
+
+# How do I continue listening?
+
+In any order you like.
