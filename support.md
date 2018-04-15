@@ -37,25 +37,22 @@ simplest essays that could possibly work:
 
 - [Pay with Leanpub](https://leanpub.com/agilein3minutes)
 
-## Fund
+## Donate
 
 Feel like drip-funding a few bucks per episode? They'll go toward
 hosting and equipment costs, and you'll be encouraging me to keep
 at it. As you prefer:
 
-- [Pay with Patreon](https://www.patreon.com/schmonz)
-- [Pay with Flattr](https://flattr.com/submit/auto?user_id=schmonz&url=https%3A%2F%2Fagilein3minut.es)
-- [Pay with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YTLM2XYYTNMYS)
+- [Flattr](https://schmonz.com/link/flattr)
+- [Ko-Fi](https://schmonz.com/link/kofi)
+- [Liberapay](https://schmonz.com/link/liberapay)
+- [Patreon](https://schmonz.com/link/patreon)
+- [PayPal](https://schmonz.com/link/paypal)
+- [☕  Buy me a fancy coffee](https://schmonz.com/link/coffee)
 
 ## Affiliate
 
 When you buy stuff at
-[Amazon](https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=schmonz-20&linkId=35b4a5d403184e21bbc87ba7a912e567),
+[Amazon](https://schmonz.com/link/amazon),
 use this link to get there. 
 No cost to you, and I'll get a small cut.
-
-## Caffeinate
-
-Help my mind and body remain in motion:
-
-- [☕  Buy me a fancy coffee](https://schmonz.com/coffee/)
