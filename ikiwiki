@@ -36,6 +36,7 @@ banned_users:
 - ip(178.172.147.240)
 - ip(183.138.*.*)
 - ip(188.143.232.21)
+- ip(195.154.59.37)
 - ip(198.46.203.138)
 - ip(204.86.20.120)
 # where the source of the wiki is located
