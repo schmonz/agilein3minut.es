@@ -10,9 +10,10 @@
 # name of the wiki
 wikiname: Agile in 3 Minutes
 # contact email for wiki
-#adminemail: me@example.com
+adminemail: schmonz@agilein3minut.es
 # users who are wiki admins
-adminuser: []
+adminuser:
+- schmonz@agilein3minut.es
 # users who are banned from the wiki
 banned_users:
 - ip(37.57.231.*)
@@ -75,6 +76,7 @@ rcs: git
 add_plugins:
 - blogspam
 - comments
+- emailauth
 - img
 - inline
 - map
@@ -82,7 +84,6 @@ add_plugins:
 - pagecount
 - pagestats
 - pagetemplate
-- passwordauth
 - shortcut
 - sidebar
 - sortnaturally
@@ -99,6 +100,7 @@ disable_plugins:
 - editpage
 - httpauth
 - openid
+- passwordauth
 - recentchanges
 - search
 - signinedit
