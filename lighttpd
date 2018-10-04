@@ -1,5 +1,5 @@
 var.siteroot		= "/home/schmonz/sites/agilein3minut.es/www/"
-var.siteport		= 30096
+var.siteport		= 36375
 
 include			"/etc/lighttpd/schmonz_hosted.conf"
 
