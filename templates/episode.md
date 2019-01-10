@@ -21,6 +21,10 @@
 
 <TMPL_VAR learnmore>
 
+# More Agile in 3 Minutes
+
+[[!inline raw=yes pages="front/more"]]
+
 # Discuss
 
 [[!inline raw=yes pages="front/discuss"]] | [agilein3minut.es](https://agilein3minut.es/cgi/ikiwiki?do=comment&page=<TMPL_VAR page>)
