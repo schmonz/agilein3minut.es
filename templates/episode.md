@@ -5,7 +5,7 @@
 [[!meta name="twitter:description" content="<TMPL_VAR question>"]]
 [[!meta name="twitter:player" content="https://agilein3minut.es/twittercard/<TMPL_VAR page>/"]]
 [[!meta name="twitter:player:width" content="480"]]
-[[!meta name="twitter:player:height" content="20"]]
+[[!meta name="twitter:player:height" content="60"]]
 [[!meta author="<TMPL_IF AUTHOR><TMPL_VAR author><TMPL_ELSE>Amitai Schleier</TMPL_IF>"]]
 [[!meta authorurl="<TMPL_VAR authorurl>"]]
 [[!meta title="<TMPL_VAR page>: <TMPL_VAR title>"]]
