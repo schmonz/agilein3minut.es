@@ -32,6 +32,10 @@
 # Subscribe
 
 [[!inline raw=yes pages="front/subscribe"]]
+
+# Support
+
+[[!inline raw=yes pages="front/support"]]
 ENDBODY]]
 
 [[!meta redir="index"]]
