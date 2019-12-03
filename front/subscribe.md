@@ -2,6 +2,8 @@
 |
 [Stitcher](http://www.stitcher.com/s?fid=74689&refid=stpr)
 |
+[Spotify](https://open.spotify.com/show/1O2JiocZYrqNNhRKfCOBwB?si=PgBYfc0VTiCIMwfTwc1yCg)
+|
 [YouTube](https://www.youtube.com/playlist?list=PLkuryjnRFclR2B6KArV70nyRWhtZx6fOm)
 |
 [RSS](/archive/index.rss)
