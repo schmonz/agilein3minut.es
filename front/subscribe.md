@@ -2,6 +2,8 @@
 |
 [Stitcher](http://www.stitcher.com/s?fid=74689&refid=stpr)
 |
+[YouTube](https://www.youtube.com/playlist?list=PLkuryjnRFclR2B6KArV70nyRWhtZx6fOm)
+|
 [RSS](/archive/index.rss)
 |
 [Email](mailto:announce-subscribe@schmonz.com?subject=subscribe&body=subscribe)
