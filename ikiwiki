@@ -82,12 +82,12 @@ only_committed_changes: 0
 rcs: git
 # plugins to add to the default configuration
 add_plugins:
-- blogspam
 - comments
 - emailauth
 - img
 - inline
 - map
+- moderatedcomments
 - notifyemail
 - pagecount
 - pagestats
@@ -233,7 +233,7 @@ pingurl: []
 
 # blogspam plugin
 # PageSpec of pages to check for spam
-blogspam_pagespec: postcomment(*)
+#blogspam_pagespec: postcomment(*)
 # options to send to blogspam server
 #blogspam_options: blacklist=1.2.3.4,blacklist=8.7.6.5,max-links=10
 # blogspam server JSON url
@@ -255,7 +255,7 @@ blogspam_pagespec: postcomment(*)
 
 # moderatedcomments plugin
 # PageSpec matching users or comment locations to moderate
-#moderate_pagespec: '*'
+moderate_pagespec: '*'
 
 # openid plugin
 # url pattern of openid realm (default is cgiurl)
