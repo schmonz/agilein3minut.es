@@ -1,6 +1,9 @@
+var.sitecanonical	= "agilein3minut.es"
 var.siteroot		= "/home/schmonz/sites/agilein3minut.es/www/"
 var.siteport		= 36375
+var.siteport_tls	= 36400
 
+include			"/etc/lighttpd/schmonz_ssl.conf"
 include			"/etc/lighttpd/schmonz_hosted.conf"
 
 server.modules		+= ("mod_setenv")
