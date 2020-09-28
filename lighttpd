@@ -6,12 +6,6 @@ var.siteport_tls	= 36400
 include			"/etc/lighttpd/schmonz_ssl.conf"
 include			"/etc/lighttpd/schmonz_hosted.conf"
 
-server.modules		+= ("mod_setenv")
-setenv.add-response-header = (
-	"Strict-Transport-Security" => "max-age=300",
-	# max-age=63072000; includeSubDomains; preload"
-)
-
 server.modules		+= ("mod_cgi")
 alias.url		+= ("/cgi" => siteroot + "cgi/")
 $HTTP["url"]		=~ "^/cgi/" { cgi.assign = ("" => "") }
