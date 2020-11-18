@@ -13,7 +13,7 @@ wikiname: Agile in 3 Minutes
 adminemail: schmonz@agilein3minut.es
 # users who are wiki admins
 adminuser:
-- schmonz@agilein3minut.es
+- schmonz
 # users who are banned from the wiki
 banned_users:
 - ip(2.95.74.4)
@@ -83,7 +83,7 @@ rcs: git
 # plugins to add to the default configuration
 add_plugins:
 - comments
-- emailauth
+- httpauth
 - img
 - inline
 - map
@@ -106,7 +106,7 @@ add_plugins:
 # plugins to disable
 disable_plugins:
 - editpage
-- httpauth
+- emailauth
 - openid
 - passwordauth
 - recentchanges
@@ -245,7 +245,7 @@ pingurl: []
 
 # httpauth plugin
 # url to redirect to when authentication is needed
-#cgiauthurl: http://example.com/wiki/auth/ikiwiki.cgi
+cgiauthurl: https://agilein3minut.es/cgi/authiwiki
 # PageSpec of pages where only httpauth will be used for authentication
 #httpauth_pagespec: '!*/Discussion'
 

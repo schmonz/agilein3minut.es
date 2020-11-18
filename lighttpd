@@ -10,5 +10,6 @@ server.modules		+= ("mod_cgi")
 alias.url		+= ("/cgi" => siteroot + "cgi/")
 $HTTP["url"]		=~ "^/cgi/" { cgi.assign = ("" => "") }
 
-server.modules		+= ("mod_redirect")
+include			siteroot + "../../schmonz.com/wiki/conf/lighttpd-authiwiki"
+
 url.redirect		= ( "^/index.rss" => "/archive/index.rss" )
