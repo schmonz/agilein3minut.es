@@ -189,7 +189,7 @@ deterministic: 0
 git_wrapper: /home/schmonz/sites/agilein3minut.es/www/git/src.git/hooks/post-update
 # shell command for git_wrapper to run, in the background
 git_wrapper_background_command: git push git@github.com:schmonz/agilein3minut.es.git
-  master
+  main
 # mode for git_wrapper (can safely be made suid)
 git_wrappermode: 00755
 # git pre-receive hook to generate
@@ -203,7 +203,7 @@ git_wrappermode: 00755
 # where to pull and push changes (set to empty string to disable)
 gitorigin_branch: origin
 # branch that the wiki is stored in
-gitmaster_branch: master
+gitmaster_branch: main
 
 # htmlscrubber plugin
 # PageSpec specifying pages not to scrub
