@@ -2,7 +2,7 @@
 [[!meta name="og:title" content="Agile in 3 Minutes <TMPL_VAR page>: <TMPL_VAR title>" property="og:title"]]
 [[!meta name="og:description" content="<TMPL_VAR question>" property="og:description"]]
 [[!meta name="og:url" content="https://agilein3minut.es/<TMPL_VAR page>/" property="og:url"]]
-[[!meta name="og:type" content="music:song" property="og:type"]]
+[[!meta name="og:type" content="music.song" property="og:type"]]
 [[!meta name="og:image" content="https://agilein3minut.es/images/ai3m.png" property="og:image"]]
 [[!meta name="og:audio" content="/ai3m<TMPL_VAR page>.mp3" property="og:audio"]]
 [[!meta name="twitter:card" content="player"]]
