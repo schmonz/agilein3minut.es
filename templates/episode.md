@@ -1,8 +1,8 @@
 [[!templatebody <<ENDBODY
-[[!meta name="og:title" content="Agile in 3 Minutes <TMPL_VAR page>: <TMPL_VAR title>"]]
-[[!meta name="og:description" content="<TMPL_VAR question>"]]
-[[!meta name="og:image" content="/images/ai3m.png"]]
-[[!meta name="og:audio" content="/ai3m<TMPL_VAR page>.mp3"]]
+[[!meta name="og:title" content="Agile in 3 Minutes <TMPL_VAR page>: <TMPL_VAR title>" property="og:title"]]
+[[!meta name="og:description" content="<TMPL_VAR question>" property="og:description"]]
+[[!meta name="og:image" content="/images/ai3m.png" property="og:image"]]
+[[!meta name="og:audio" content="/ai3m<TMPL_VAR page>.mp3" property="og:audio"]]
 [[!meta name="twitter:card" content="player"]]
 [[!meta name="twitter:site" content="@AgileIn3Minutes"]]
 [[!meta name="twitter:title" content="Agile in 3 Minutes <TMPL_VAR page>: <TMPL_VAR title>"]]
