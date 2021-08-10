@@ -13,6 +13,10 @@ link="https://latentagility.com"
 caption="Hi, I'm Amitai."
 ]]
 
+“Before Agile in 3 Minutes, I couldn’t get my team to have a conversation.
+Now I have to timebox it.”  
+-- [Chris McClellan](https://twitter.com/schmonz/status/1425197906164862977)
+
 # What is this?
 
 A micropodcast about thinking and doing business effectively.
