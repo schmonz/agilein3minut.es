@@ -50,3 +50,6 @@ Anywhere you like.
 # How do I continue listening?
 
 In any order you like.
+
+
+[[!meta link="https://octodon.social/@schmonz" rel="me"]]
