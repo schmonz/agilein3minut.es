@@ -14,6 +14,8 @@
 [[!meta enclosure="ai3m<TMPL_VAR page>.mp3"]]
 [[!tag episode season-<TMPL_VAR season> <TMPL_VAR tags>]]
 
+# _Limited-time offer:_ I'm seeking a full-time role in engineering leadership and/or senior engineering. Is your organization the one [I'm looking for](https://schmonz.com/2023/08/05/who-needs-an-amitai/)?
+
 # _<TMPL_IF AUTHOR>Special guest [<TMPL_VAR author>](<TMPL_VAR authorurl>)<TMPL_ELSE>[Amitai](<TMPL_VAR authorurl>)</TMPL_IF> asks:_ <TMPL_VAR question>
 
 <div id="inlineaudio"><audio src="/ai3m<TMPL_VAR page>.mp3" preload="metadata" controls="controls"></audio></div>
