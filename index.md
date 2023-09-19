@@ -6,7 +6,7 @@ Support&nbsp;&nbsp;,[[!inline raw=yes pages="front/support"]]
 """]]
 
 [[!img
-images/santa_ponsa_face.jpg
+images/cokebabies.jpg
 align=right
 size=100x100
 link="https://latentagility.com"
