@@ -1,3 +1,5 @@
+# _Limited-time offer:_ I'm seeking a full-time role in engineering leadership and/or senior engineering. Is your organization the one [I'm looking for](https://schmonz.com/2023/08/05/who-needs-an-amitai/)?
+
 [[!table class="front" header="column" delimiter="," data="""
 Listen&nbsp;&nbsp;,<strong>[[!inline raw=yes pages="front/listen"]]</strong>
 Discuss&nbsp;&nbsp;,[[!inline raw=yes pages="front/discuss"]]
